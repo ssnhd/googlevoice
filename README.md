@@ -23,8 +23,8 @@
 
 
 ## 步骤二、登陆 Google 账号
-* 浏览器设置为 `无痕模式`，打开 Google 并登陆账号。
-* 搜索「Google Voice」并打开，点击
+* 浏览器设置为 `无痕模式`；
+* 打开 Google 搜索「Google Voice」并登陆 Google 账户，点击「选择电话号码」。
 
 ![](pic/004.png)
 
