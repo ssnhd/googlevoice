@@ -72,3 +72,9 @@
 * 完成注册，可以看到号码已经绑定在你的 Google 账户下。
 
 ![](pic/011.png)
+
+* 手机端安装 Voice 或者 Hangouts，即可接打电话和收发短信。
+
+> iPhone 在美区 App Store 里安装 App。
+
+![](pic/012.png)
