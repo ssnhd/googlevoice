@@ -102,4 +102,4 @@
 * 中国-香港手机：0.03美元/分钟
 * 中国-香港固定电话：0.03美元/分钟
 
-更多国家资费请打开官方链接:[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
+更多国家资费请打开官方链接：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
