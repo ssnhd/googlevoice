@@ -29,7 +29,7 @@
 
 * 打开 [https://ipdata.co/](https://ipdata.co/)，看到显示 `isp` 表示家庭用户，如是代理托管建议更换路线。
 
-![](pic/003.jpg)
+![](pic/002.jpg)
 
 
 ## 步骤二、登陆 Google 账号
