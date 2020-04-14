@@ -89,3 +89,15 @@
 ---
 ## Google Voice 转移到其他 Google 账户下
 * 方法：[https://github.com/masonincn/Google-Voice](https://github.com/masonincn/Google-Voice)
+
+
+---
+## Google Voice App 拨打电话时显示：「还有一件事…拨打电话前，请验证您自己的电话号码」
+* 打开 Google Voice，点击左上角三条杠 > 设置。
+* 通话里点击「拨打和接听电话」。
+
+![](pic/013.png)
+
+* 选择「首选 Wi-Fi 和移动数据网络」，此时即可拨打电话了。
+
+![](pic/014.png)
