@@ -96,3 +96,11 @@
 * 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
 * 拨打美国客服电话，例如 Apple，Microsoft 等。
 * 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
+
+## Google Voice 通话资费
+* 中国-手机：0.02美元/分钟
+* 中国-有线电话：0.02美元/分钟
+* 中国-香港手机：0.03美元/分钟
+* 中国-香港固定电话：0.03美元/分钟
+
+更多国家资费请打开官方链接:[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
