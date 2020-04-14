@@ -69,6 +69,7 @@
 
 * 完成注册，可以看到号码已经绑定在你的 Google 账户下。
 
+
 ![](pic/011.png)
 
 * 手机端安装 Voice 或者 Hangouts，即可接打电话和收发短信。
@@ -82,3 +83,7 @@
 * 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
 * 拨打美国客服电话，例如 Apple，Microsoft 等。
 * 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
+
+---
+## Google Voice 转移到其他 Google 账户下
+* 方法：[https://github.com/masonincn/Google-Voice](https://github.com/masonincn/Google-Voice)
