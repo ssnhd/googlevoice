@@ -70,7 +70,7 @@
 
 * 完成注册，可以看到号码已经绑定在你的 Google 账户下。
 
-> 我已经把 GV 号码转移到另一个 Google 账户下，方法见文末。
+> 我已经把 GV 号码转移到另一个 Google 账户下，方法：[https://github.com/masonincn/Google-Voice](https://github.com/masonincn/Google-Voice)
 
 ![](pic/011.png)
 
@@ -81,18 +81,8 @@
 ![](pic/012.png)
 
 
-## 如何防止 Google Voice 被收回？
-* 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
-* 拨打美国客服电话，例如 Apple，Microsoft 等。
-* 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
-
 ---
-## Google Voice 转移到其他 Google 账户下
-* 方法：[https://github.com/masonincn/Google-Voice](https://github.com/masonincn/Google-Voice)
-
-
----
-## Google Voice App 拨打电话时显示：「还有一件事…拨打电话前，请验证您自己的电话号码」
+## Voice App 拨打电话时显示：「还有一件事…拨打电话前，请验证您自己的电话号码」
 * 打开 Google Voice，点击左上角三条杠 > 设置。
 * 通话里点击「拨打和接听电话」。
 
@@ -101,3 +91,8 @@
 * 选择「首选 Wi-Fi 和移动数据网络」，此时即可拨打电话了。
 
 ![](pic/014.png)
+
+## 如何防止 Google Voice 被收回？
+* 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
+* 拨打美国客服电话，例如 Apple，Microsoft 等。
+* 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
