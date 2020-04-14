@@ -76,3 +76,9 @@
 > iPhone 在美区 App Store 里安装 App。
 
 ![](pic/012.png)
+
+
+## 如何防止 Google Voice 被收回？
+* 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
+* 拨打美国客服电话，例如 Apple，Microsoft 等。
+* 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
