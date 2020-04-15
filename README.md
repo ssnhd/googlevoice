@@ -80,7 +80,9 @@
 
 > iPhone 在美区 App Store 里安装 App。
 
-![](pic/012.png)
+
+
+![](pic/012.jpg)
 
 
 
