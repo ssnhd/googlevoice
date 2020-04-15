@@ -92,6 +92,8 @@
 ![](pic/014.png)
 
 ## 如何防止 Google Voice 被收回？
+> 9 个月内既没有拨出电话或收到来电，也没有发送或收到短信，则 Google 会收回该号码。
+
 * 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
 * 拨打美国客服电话，例如 Apple，Microsoft 等。
 * 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
