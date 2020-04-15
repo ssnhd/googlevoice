@@ -90,6 +90,8 @@
 
 Google Voice App 须绑定美国真实手机号后才能拨打电话，推荐使用 Google Hangouts（环聊），可以绕过限制。
 
+> 使用 `环聊` 前需要先关联 `Google Voice`
+
 * 登陆 [Google 环聊](https://hangouts.google.com/?authuser=2)，点击`…` 设置，勾选 Google 语音。
 
 ![](pic/015.png)
