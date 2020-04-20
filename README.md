@@ -80,11 +80,7 @@
 
 > iPhone 在美区 App Store 里安装 App。
 
-
-
 ![](pic/012.jpg)
-
-
 
 ## 为什么建议使用 Google 环聊？
 
@@ -106,28 +102,16 @@ Google Voice App 须绑定美国真实手机号后才能拨打电话，推荐使
 
 ## Google Voice App 提示：「还有一件事…拨打电话前，请验证您自己的电话号码」
 
-
-
 ![](pic/018.png)
 
 - 打开 Google Voice，点击左上角三条杠 > 设置。
 - 通话里点击「拨打和接听电话」。
 
-
-
 ![](pic/013.png)
-
-
 
 * 选择「首选 Wi-Fi 和移动数据网络」，此时即可拨打电话了。
 
-
-
 ![](pic/014.png)
-
-
-
-
 
 ## 如何防止 Google Voice 被收回？
 
