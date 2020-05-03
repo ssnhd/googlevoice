@@ -127,3 +127,4 @@ Google Voice App 须绑定美国真实手机号后才能拨打电话，推荐使
 * 中国-香港固定电话：0.03美元/分钟
 
 更多国家资费请打开官方链接：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
+
