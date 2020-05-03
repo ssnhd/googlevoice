@@ -30,7 +30,9 @@
 
 ![](pic/002.jpg)
 
-* 打开 [https://ipdata.co/](https://ipdata.co/)，看到显示 `isp` 表示家庭用户，如是代理托管建议更换路线。
+* 打开 [https://ipdata.co/](https://ipdata.co/)，测试路线是家庭还是代理托管。
+* 显示 `type: "isp"` 表示家庭用户，最佳；
+* 显示 `type: "hosting"` 表示代理托管，建议更换路线。
 
 ![](pic/003.jpg)
 
