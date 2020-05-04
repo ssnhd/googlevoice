@@ -117,12 +117,12 @@ Google Voice App 须绑定美国真实手机号后才能拨打电话，推荐使
 
 * 找位拥有 Google Voice 的朋友互相电话或短信，约半年一次即可。
 * 拨打美国客服电话，例如 Apple，Microsoft 等。
-* 我自己的解决办法是注册两个 Google Voice 号，互相骚扰 🐶🐶
+* 也可以注册两个 Google Voice 号，互相骚扰 🐶🐶
 
 ## Google Voice 通话资费
 
 * 中国-手机/有线电话：0.02美元/分钟
 * 中国-香港手机/固定电话：0.03美元/分钟
 
-更多国家资费请打开官方链接：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
+* 更多国家资费官网介绍：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
 
