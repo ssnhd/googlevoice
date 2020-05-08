@@ -34,15 +34,15 @@
 
 ## 步骤二、挑选 Google Voice 号码
 
-* 谷歌搜索「Google Voice」并登陆账户，点击「选择电话号码」。
+* 打开 [Google Voice](https://voice.google.com/) 使用 Google 账户登陆，点击「选择电话号码」。
 
 ![](pic/004.png)
 
-* 系统会自动推荐一些 Google Voice 号码，找到一个自己喜欢的，点击「选择」。
+* 系统会推荐一些 Google Voice 号码，找到自己喜欢的号码，点击「选择」。
 
 ![](pic/005.png)
 
-* 点击「验证」，输入可以接受短信的美国号码，点击「发送代码」。
+* 点击「验证」，输入美国号码，点击「发送代码」。
 
 > 如果你没有实体卡，继续往下看。
 
@@ -62,19 +62,19 @@
 
 ![](pic/009.png)
 
-* 支付完会看到一个美国号码，复制粘贴到 `步骤二` 输入手机号那里，并点击发送代码。
-* 等待几秒，这里会收到 `验证码`。
+* 支付完会显示一个号码，复制粘贴到 `步骤二` 输入美国号码处，并点击发送代码。
+* 等待几秒，此处会收到 `验证码`。
 * 再把 `验证码` 输入到 `步骤二` 那里。
 
 ![](pic/010.jpg)
 
 * 完成注册，可以看到号码已经绑定在你的 Google 账户下。
 
-> 我已经把 GV 号码转移到另一个 Google 账户下，方法：[https://github.com/masonincn/Google-Voice](https://github.com/masonincn/Google-Voice)
+> 也可以将 Google Voice 转移至其他 Google 账户下，方法：[https://github.com/masonincn/Google-Voice](https://github.com/masonincn/Google-Voice)
 
 ![](pic/011.png)
 
-* 手机端安装 Voice 或者 Hangouts（环聊），建议使用「环聊」。
+* 手机端安装 Voice 或 Hangouts（环聊），建议使用「环聊」。
 
 > iPhone 在美区 App Store 里安装 App。
 
