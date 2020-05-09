@@ -49,7 +49,7 @@
 
 ## 步骤三、代收短信
 
-* 打开 [https://verifywithsms.com/](https://verifywithsms.com/) 并完成注册。
+* 打开 [https://verifywithsms.com/](https://verifywithsms.com/)，注册并登陆。
 
 ![](pic/007.png)
 
