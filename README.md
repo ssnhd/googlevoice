@@ -2,8 +2,9 @@
 
 ## Google Voice 在中国大陆常用功能
 
-* 接收验证码，例如：注册美区 PayPal，绑定 Facebook、Twitter、WhatApp、微信（不能注册，只能绑定）等。
+* 注册美区 PayPal，绑定 Facebook、Twitter、WhatApp…
 * 注册 Telegram，解决 +86 号码不能私聊问题`（+86 可以通过发消息给机器人解锁，考虑到隐私还是不建议大家使用 +86 注册）`。
+* 绑定微信（不能注册）。
 * 免费拨打 `美国` `加拿大` 电话和收发短信。
 
 ## 前期准备
