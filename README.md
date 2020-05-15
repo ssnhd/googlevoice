@@ -10,7 +10,7 @@
 | 国外  |  PayPal、Telegram、Facebook、Twitter、Amazon、Apple ID、阿里国际… |   
 | 不可注册   | WeChat、WhatsApp（支持换绑）、Line、微博、百度…
 
-### 前期准备
+### 准备
 1. 美国原生 IP
 2. 可以接收美国短信的手机卡（如没有请看 `步骤三`）
 
