@@ -4,10 +4,10 @@
 
 免费拨打 `美国` `加拿大` 电话和收发短信，除此之外，还可以注册以下平台。
 
-|   |  平台 |  
+|   |  平台 |
 |---|---|
-| 国内  | 爱奇艺、优酷、bilibili、抖音、豆瓣、知乎、京东、绑定QQ、绑定微信…  |   
-| 国外  |  PayPal、Telegram、Facebook、Twitter、Amazon、Apple ID、阿里国际… |   
+| 国内  | 爱奇艺、优酷、bilibili、抖音、豆瓣、知乎、京东、绑定QQ、绑定微信…  |
+| 国外  |  PayPal、Telegram、Facebook、Twitter、Amazon、Apple ID、阿里国际… |
 | 不可注册   | WeChat、WhatsApp（支持换绑）、Line、微博、百度…
 
 ### 准备
@@ -127,3 +127,9 @@
 * 中国-手机/有线电话：0.02美元/分钟
 * 中国-香港手机/固定电话：0.03美元/分钟
 * 更多国家资费官网介绍：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
+
+----
+
+如果对你有帮助，欢迎支付宝扫码支持！
+
+![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
