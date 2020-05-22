@@ -104,19 +104,13 @@
 
 ![](pic/011.png)
 
-* 手机端安装 Voice 或 Hangouts（环聊）。
-  
-  > iPhone 切换至美区 App Store 安装 App。
-
-![](pic/012.jpg)
-
 ### 为什么建议使用 Google 环聊？
 
-> Google Voice App 须绑定美国真实手机号后才能拨打电话，推荐使用 Google Hangouts（环聊），可以绕过限制。
-> 
-> 使用 `环聊` 前需要先关联 `Google Voice`
+> * Google Voice App 须绑定美国真实手机号后才能拨打电话，推荐使用 Google Hangouts（环聊），可以绕过限制。
+>
+> * 手机端安装 Hangouts（环聊）。
 
-* 登陆 [Google 环聊](https://hangouts.google.com/?authuser=2)，点击`…` 设置，勾选 Google 语音。
+* 使用环聊前需要先关联 Google Voice，登陆 [Google 环聊](https://hangouts.google.com/?authuser=2)，点击 `…` 设置，勾选 Google 语音。
 
 ![](pic/015.png)
 
@@ -128,9 +122,9 @@
 
 ![](pic/017.png)
 
-### Google Voice App 提示：「还有一件事…拨打电话前，请验证您自己的电话号码」
+---
 
-![](pic/018.png)
+#### 如果手机端使用 Google Voice，可能会提示：「还有一件事…拨打电话前，请验证您自己的电话号码」
 
 - 打开 Google Voice，点击左上角三条杠 > 设置。
 - 通话里点击「拨打和接听电话」。
