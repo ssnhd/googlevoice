@@ -35,13 +35,13 @@
 
 ### 步骤二、挑选 Google Voice 号码
 
-* 打开 [Google Voice](https://voice.google.com/) 使用 Google 账号登陆，点击「选择电话号码」。
+* 打开 [Google Voice](https://voice.google.com/) 用 Google 账号登陆，点击「选择电话号码」。
 
 ![](pic/004.png)
 
-* 系统会推荐 Google Voice 号码，找到自己喜欢的点击「选择」。
+* 系统会推荐一些 Google Voice 号码，找到自己喜欢的点击「选择」。
   
-  > 支持输入 `区号` 或 `4位数` 进行搜索
+  > 支持输入 `区号` 或 `4位数` 搜索
 
 ![](pic/005.png)
 
