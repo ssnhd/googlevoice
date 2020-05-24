@@ -117,7 +117,7 @@ Android 手机安装环聊和环聊拨号器；iOS 手机只需要安装环聊�
 
 打开 Google Voice，设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
-![](pic/014.jpg)
+![](pic/voice.jpg)
 
 ### 如何防止 Google Voice 被收回？
 
