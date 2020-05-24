@@ -29,8 +29,8 @@
 打开 [https://ipdata.co/](https://ipdata.co/)，测试路线为 `家庭` 或 `托管`。
 
 ```
-显示 `type: "isp"` 表示家庭用户，最佳；
-显示 `type: "hosting"` 表示代理托管，建议更换路线。
+type: "isp" 表示家庭用户，最佳
+type: "hosting" 表示代理托管，建议更换路线
 ```
 
 ![](pic/003.jpg)
