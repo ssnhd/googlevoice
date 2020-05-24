@@ -137,8 +137,7 @@ Android 手机安装环聊和环聊拨号器；iOS 手机只需要安装环聊�
 
 ### Telegram
 
-* 软路由交流群：[https://t.me/ruanluyoujiaoliu](https://t.me/ruanluyoujiaoliu)
-* 硬路由交流群：[https://t.me/yingluyou](https://t.me/yingluyou)
+* 二手路由器群：[https://t.me/ershouluyouqi](https://t.me/ershouluyouqi)
 * V2EX交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
 * macOS交流群：[https://t.me/macOSjiaoliu](https://t.me/macOSjiaoliu)
 * Google产品交流：[https://t.me/Googlejiaoliuqun](https://t.me/Googlejiaoliuqun)
