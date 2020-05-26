@@ -1,4 +1,4 @@
-# 2020 年最新注册 Google Voice 号码，成功率极高
+# 2020 年注册 Google Voice 号码，成功率极高
 
 ### Google Voice 常用功能
 
