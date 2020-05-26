@@ -49,21 +49,19 @@ type: "hosting" 表示代理托管，建议更换路线
 
 ### 步骤三、代收短信
 
-打开 [https://verifywithsms.com/](https://verifywithsms.com/)，注册并登陆。
+打开 [https://verifywithsms.com/](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付。
 
 > 注：此短信验证平台供参考，你也可以选择其他平台
 
-![](pic/007.png)
 
-点击「RECHARGE」，选择 PayPal 支付。
 
 ![](pic/008.png)
 
-充值 2.09 美元（好像不支持退款，所以不要充多）。
+输入 2.09 美元，登陆 PayPal 充值（好像不支持退款，如果不使用建议别充值）。
 
 ![](pic/008.1.png)
 
-点击左侧「CATALOG」，找到「Google Voice」，点击右侧购物车。
+充值后点击左侧「CATALOG」>「Google Voice」，点击购物车。
 
 ![](pic/009.png)
 
@@ -71,11 +69,11 @@ type: "hosting" 表示代理托管，建议更换路线
 
 ![](pic/009.1.png)
 
-打开「我同意」，点击「NEXT」。
+打开「I agree」，点击「NEXT」。
 
 ![](pic/010.png)
 
-出现一个美国号码。
+会出现一个美国号码。
 
 ![](pic/010.1.png)
 
@@ -83,7 +81,7 @@ type: "hosting" 表示代理托管，建议更换路线
 
 ![](pic/019.png)
 
-回到接收短信网站，点击「NEXT」显示验证码。
+回到接收短信网站，点击「NEXT」会显示验证码。
 
 ![](pic/020.png)
 
@@ -93,7 +91,7 @@ type: "hosting" 表示代理托管，建议更换路线
 
 ### 步骤四 注册完成
 
-右上角号码已显示在 Google 账户下。
+号码显示在右上角。
 
 > 注：如未显示号码，说明注册失败，和节点有很大关系，建议更换。
 
@@ -113,14 +111,14 @@ type: "hosting" 表示代理托管，建议更换路线
 
 ![](pic/voice.jpg)
 
-### 如何防止 Google Voice 被收回？
+### 防止收回
 
 9 个月内既没有拨出电话或收到来电，也没有发送或收到短信，则 Google 会收回该号码。
 
 * 找拥有 Google Voice 的朋友互相电话 / 短信或自己注册多号。
 * 拨打美国客服电话，例如 Apple，Microsoft。
 
-### Google Voice 通话资费
+### 通话资费
 
 * 中国-手机/有线电话：0.02美元/分钟
 * 中国-香港手机/固定电话：0.03美元/分钟
