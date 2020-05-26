@@ -117,9 +117,8 @@ type: "hosting" 表示代理托管，建议更换路线
 
 9 个月内既没有拨出电话或收到来电，也没有发送或收到短信，则 Google 会收回该号码。
 
-* 找位拥有 Google Voice 的朋友互相电话 / 短信。
-* 拨打美国企业客服电话，例如 Apple，Microsoft。
-* 注册多个 Google Voice 号，互相骚扰 。
+* 找拥有 Google Voice 的朋友互相电话 / 短信或注册双号。
+* 拨打美国客服电话，例如 Apple，Microsoft。
 
 ### Google Voice 通话资费
 
