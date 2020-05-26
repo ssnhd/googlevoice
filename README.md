@@ -27,7 +27,7 @@ type: "isp" 表示家庭用户，最佳
 type: "hosting" 表示代理托管，建议更换路线
 ```
 
-![](pic/003.jpg)
+![](pic/tuoguan.jpg)
 
 ### 步骤二、挑选 Google Voice 号码
 
