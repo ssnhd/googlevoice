@@ -128,7 +128,7 @@ type: "hosting" 表示代理托管，建议更换路线
 
 ### Telegram
 
-* 二手路由器群：[https://t.me/ershouluyouqi](https://t.me/ershouluyouqi)
+* 软硬路由器群（含二手）：[https://t.me/luyouqi](https://t.me/luyouqi)
 * V2EX交流群（非官方）：[https://t.me/V2EXPro](https://t.me/V2EXPro)
 * macOS交流群：[https://t.me/macOSjiaoliu](https://t.me/macOSjiaoliu)
 * Google产品交流：[https://t.me/Googlejiaoliuqun](https://t.me/Googlejiaoliuqun)
