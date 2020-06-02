@@ -128,10 +128,10 @@ type: "hosting" 表示网络托管，建议更换路线
 
 ### Telegram
 
-* 软硬路由器群（含二手）：[https://t.me/luyouqi](https://t.me/luyouqi)
-* V2EX交流群（非官方）：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-* macOS交流群：[https://t.me/macOSjiaoliu](https://t.me/macOSjiaoliu)
-* Google产品交流：[https://t.me/Googlejiaoliuqun](https://t.me/Googlejiaoliuqun)
+* 路由器群：[https://t.me/luyouqi](https://t.me/luyouqi)
+* V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
+* Apple群：[https://t.me/applequn](https://t.me/applequn)
+* Google群：[https://t.me/googlequn](https://t.me/googlequn)
 
 如果对你有帮助，欢迎支付宝扫码支持！
 
