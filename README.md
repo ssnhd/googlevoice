@@ -23,8 +23,8 @@
 打开 [https://ipdata.co/](https://ipdata.co/)，测试路线为家庭或托管。
 
 ```
-type: "isp" 表示企业或私人用户，最佳
-type: "hosting" 表示网络托管，建议更换路线
+type: "isp" 表示企业或私人用户，最佳。
+type: "hosting" 表示网络托管，建议换节点（不代表绝对，也有人显示托管注册成功）。
 ```
 
 ![](pic/tuoguan.jpg)
