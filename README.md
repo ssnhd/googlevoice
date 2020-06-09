@@ -14,20 +14,12 @@
 
 ### 步骤一、检测 IP
 
-节点切换为美国（全局模式），浏览器（无痕模式）打开 [https://whoer.net](https://whoer.net) 检测路线伪装程度。
+节点切换为美国（全局模式），浏览器（无痕模式）打开 [https://whoer.net](https://whoer.net) 检测路线伪装程度，伪装度越高越好。
 
-> 注：百分比越高越好，如低于 `70%` 建议更换路线
+
 
 ![](pic/002.jpg)
 
-打开 [https://ipdata.co/](https://ipdata.co/) 测试路线为家庭或托管。
-
-```
-type: "isp" 表示企业或私人用户，最佳。
-type: "hosting" 表示网络托管，建议换节点（不代表绝对，也有人显示托管注册成功）。
-```
-
-![](pic/tuoguan.jpg)
 
 ### 步骤二、挑选 Google Voice 号码
 
