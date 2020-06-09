@@ -22,7 +22,7 @@
 
 ![](pic/002.jpg)
 
-打开 [https://ipdata.co/](https://ipdata.co/)，测试路线为家庭或托管。
+打开 [https://ipdata.co/](https://ipdata.co/) 测试路线为家庭或托管。
 
 ```
 type: "isp" 表示企业或私人用户，最佳。
