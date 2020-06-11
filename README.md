@@ -116,13 +116,8 @@
 
 ----
 
-### Telegram
+### Telegram 交流群、频道汇总
 
-* 路由器群：[https://t.me/luyouqi](https://t.me/luyouqi)
-* V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-* Apple群：[https://t.me/applequn](https://t.me/applequn)
-* Google群：[https://t.me/googlequn](https://t.me/googlequn)
-
-如果对你有帮助，欢迎支付宝扫码支持！
+#### [📌📌📌 请点击](https://masonincn.github.io/2020/06/11/Telegram-qun/)
 
 ![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
