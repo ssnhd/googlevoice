@@ -114,10 +114,6 @@
 * 中国-香港手机/固定电话：0.03美元/分钟
 * 更多国家资费介绍：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
 
-----
+### Telegram 交流群
 
-### Telegram 交流群、频道汇总
-
-#### [📌📌📌 请点击](https://masonincn.github.io/2020/06/11/Telegram-qun/)
-
-![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
+#### [📌 请点击](https://masonincn.github.io/2020/06/11/Telegram-qun/)
