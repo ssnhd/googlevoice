@@ -116,11 +116,9 @@
 
 ### Telegram 交流群
 
-1. 路由器群：[https://t.me/luyouqi](https://t.me/luyouqi)
+1. 路由器交流群：[https://t.me/luyouqi](https://t.me/luyouqi)
 2. V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-3. Rime 输入法群：[https://t.me/rimequn](https://t.me/rimequn)
-4. Apple 群：[https://t.me/applequn](https://t.me/applequn)
-5. Google 群：[https://t.me/googlequn](https://t.me/googlequn)
-6. Telegram 中文：[https://t.me/TG_CHN](https://t.me/TG_CHN)
-7. 江浙沪二手交易：[https://t.me/xianyuershou](https://t.me/xianyuershou) 
-8. 更多Telegram群组[请点击](https://masonincn.github.io/2020/06/11/Telegram-qun/)
+3. iOS 交流群：[https://t.me/joinchat/PfkEcxxgHpWWYT-bagSupg](https://t.me/joinchat/PfkEcxxgHpWWYT-bagSupg)
+4. macOS 交流群：[https://t.me/macosqun](https://t.me/macosqun)
+5. Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
+6. **更多群组：[点击我](https://masonincn.github.io/2020/06/11/Telegram-qun/)**
