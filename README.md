@@ -121,4 +121,4 @@
 3. iOS 交流群：[https://t.me/joinchat/PfkEcxxgHpWWYT-bagSupg](https://t.me/joinchat/PfkEcxxgHpWWYT-bagSupg)
 4. macOS 交流群：[https://t.me/macosqun](https://t.me/macosqun)
 5. Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
-6. **更多群组：[点击我](https://masonincn.github.io/2020/06/11/Telegram-qun/)**
+6. **更多群组：[点击我](https://huatsingliu.github.io/2020/06/11/telegram-group/)**
