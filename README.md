@@ -89,13 +89,18 @@
 
 ### 手机上使用环聊（推荐）
 
-进入环聊设置 > 电话号码，打开接到来电和消息。
+环聊设置 > 电话号码 > 打开接到来电和消息。
 
 ![](pic/huanliao.jpg)
 
+如果没有看到拨打电话的选项，可能是出于以下某个原因：
+
+- 不在美国境内，而你所在国家/地区可能不支持此功能。
+- 使用的是自己单位或学校的 Google Voice for G Suite 帐号。你可以使用 Google Voice 移动应用或通过 [voice.google.com](https://www.google.com/voice) 拨打电话。
+
 ### 手机上使用 Voice
 
-打开 Google Voice，设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
+Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![](pic/voice.jpg)
 
