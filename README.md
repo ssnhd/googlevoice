@@ -122,9 +122,12 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### Telegram 交流群
 
-1. 路由器交流群：[https://t.me/luyouqi](https://t.me/luyouqi)
-2. V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-3. iOS 交流群：[https://t.me/joinchat/PfkEcxxgHpWWYT-bagSupg](https://t.me/joinchat/PfkEcxxgHpWWYT-bagSupg)
-4. macOS 交流群：[https://t.me/macosqun](https://t.me/macosqun)
-5. Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
-6. **更多群组：[点击我](https://masonme.github.io/2020/06/11/telegram-group/)**
+1. Google（谷歌云、Voice）：[https://t.me/googlequn](https://t.me/googlequn)
+2. Apple 交流群：[https://t.me/Apple_CHN](https://t.me/Apple_CHN)
+3. 路由器交流群：[https://t.me/luyouqi](https://t.me/luyouqi)
+4. 路由器固件下载频道：[https://t.me/lyqxz](https://t.me/lyqxz)
+5. V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
+6. 4K Remux 影视：[https://t.me/Remux_4K](https://t.me/Remux_4K)
+7. 二手闲置发布：[https://t.me/xianyuershou](https://t.me/xianyuershou)
+8. Telegram中文：[https://t.me/TG_CHN](https://t.me/TG_CHN)
+9. **更多群组：[点击我](https://masonme.github.io/2020/06/11/telegram-group/)**
