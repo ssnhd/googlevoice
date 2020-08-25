@@ -128,6 +128,7 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 4. 路由器固件下载频道：[https://t.me/lyqxz](https://t.me/lyqxz)
 5. V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
 6. 4K Remux 影视：[https://t.me/Remux_4K](https://t.me/Remux_4K)
-7. 二手闲置发布：[https://t.me/xianyuershou](https://t.me/xianyuershou)
-8. Telegram中文：[https://t.me/TG_CHN](https://t.me/TG_CHN)
-9. **更多群组：[点击我](https://masonme.github.io/2020/06/11/telegram-group/)**
+7. 二手交流：[https://t.me/xianyuershou](https://t.me/xianyuershou)
+8. 二手发布：[https://t.me/ershoufabu](https://t.me/ershoufabu)
+9. Telegram中文：[https://t.me/TG_CHN](https://t.me/TG_CHN)
+10. **更多群组：[点击我](https://masonme.github.io/2020/06/11/telegram-group/)**
