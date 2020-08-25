@@ -117,6 +117,9 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 * 中国-香港手机/固定电话：0.03美元/分钟
 * 更多国家资费介绍：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
 
+### Google Voice 转移方法
+* https://github.com/masonme/googlevoice-transfer
+
 ### Telegram 交流群
 
 1. 路由器交流群：[https://t.me/luyouqi](https://t.me/luyouqi)
