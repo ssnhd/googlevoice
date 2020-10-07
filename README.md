@@ -42,7 +42,7 @@
 
 ### 步骤三、代收短信
 
-打开 [https://verifywithsms.com/](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付。
+打开 [https://verifywithsms.com/](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付（如无法支付，可选择其他方式支付）。
 
 ![](pic/008.png)
 
@@ -106,7 +106,7 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 防止收回
 
-9 个月内既没有拨出电话或收到来电，也没有发送或收到短信，则 Google 会收回该号码。收回前30天和7天会发邮件通知。
+[官方解答](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)：如果您在6个月内没有拨打或接听电话，收发短信，Google可能会收回您的Google语音号码（如果有的话）。我们不会收回已移植到Google语音或永久保存的号码。
 
 * 找有 Google Voice 的朋友互相电话 / 短信。
 * 拨打美国客服电话，例如 Apple，Microsoft。
