@@ -24,17 +24,17 @@
 
 ### 步骤二、挑选 Google Voice 号码
 
-打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击「选择电话号码」。
+2.1 打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击「选择电话号码」。
 
 ![](pic/004.png)
 
-系统会推荐一些 Google Voice 号码，找到自己喜欢的点击「选择」。
+2.2 系统会推荐一些 Google Voice 号码，找到自己喜欢的点击「选择」。
 
 > 注：支持输入 `区号` 或 `4位数` 搜索
 
 ![](pic/005.png)
 
-此时需填入美国手机号码，点击「发送代码」。
+2.3 此时需填入美国手机号码，点击「发送代码」。
 
 > 注：如没有手机号码，往下看 `步骤三`
 
@@ -42,42 +42,42 @@
 
 ### 步骤三、代收短信
 
-打开 [https://verifywithsms.com/](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付（最近无法使用 PayPal 支付，请选择其他方式支付）。
+3.1 打开 [verifywithsms](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付（最近无法使用 PayPal 支付，请选择其他方式支付）。
 
-> 可选：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击「Non VolP Numbers」再选择Google Voice，费用略高于verifywithsms。
+> 备选：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击「Non VolP Numbers」再选择 Google Voice，费用略高于 verifywithsms。
 
 ![](pic/008.png)
 
-输入 2.09 美元，登陆 PayPal 充值。
+3.2 输入 2.09 美元，登陆 PayPal 充值。
 > 注：如果付款成功余额未显示金额，不要着急，原因是Paypal有几率出现24小时到帐
 
 ![](pic/008.1.png)
 
-充值后点击左侧「CATALOG」>「Google Voice」，点击购物车。
+3.3 充值后点击左侧「CATALOG」>「Google Voice」，点击购物车。
 
 ![](pic/009.png)
 
-勾选「I Agree」，点击「CONTINUE」。
+3.4 勾选「I Agree」，点击「CONTINUE」。
 
 ![](pic/009.1.png)
 
-打开「I agree」，点击「NEXT」。
+3.5 打开「I agree」，点击「NEXT」。
 
 ![](pic/010.png)
 
-会出现一个美国号码。
+3.6 会出现一个美国号码。
 
 ![](pic/010.1.png)
 
-将号码填至 `步骤二` ，点击「发送代码」。
+3.7 将号码填至 `步骤二` ，点击「发送代码」。
 
 ![](pic/019.png)
 
-回到接收短信网站，点击「NEXT」会显示验证码。
+3.8 回到接收短信网站，点击「NEXT」会显示验证码。
 
 ![](pic/020.png)
 
-将验证码填至 `步骤二` ，点击「验证」。
+3.9 将验证码填至 `步骤二` ，点击「验证」。
 
 ![](pic/021.png)
 
