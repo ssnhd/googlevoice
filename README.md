@@ -42,7 +42,9 @@
 
 ### 步骤三、代收短信
 
-打开 [https://verifywithsms.com/](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付（如无法支付，可选择其他方式支付）。
+打开 [https://verifywithsms.com/](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付（最近无法使用 PayPal 支付，请选择其他方式支付）。
+
+> 可选：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击「Non VolP Numbers」再选择Google Voice，费用略高于verifywithsms。
 
 ![](pic/008.png)
 
