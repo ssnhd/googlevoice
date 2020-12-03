@@ -108,7 +108,7 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 防止收回
 
-[官方解答](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)：如果您在6个月内没有拨打或接听电话，收发短信，Google可能会收回您的Google语音号码（如果有的话）。我们不会收回已移植到Google语音或永久保存的号码。
+[官方](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)：如果您在6个月内没有拨打或接听电话，收发短信，Google可能会收回您的Google语音号码（如果有的话）。我们不会收回已移植到Google语音或永久保存的号码。
 
 * 找有 Google Voice 的朋友互相电话 / 短信。
 * 拨打美国客服电话，例如 Apple，Microsoft。
@@ -124,9 +124,4 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### Telegram 交流群
 
-1. Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
-2. Apple 交流群：[https://t.me/Apple_CHN](https://t.me/Apple_CHN)
-3. 路由器交流群：[https://t.me/luyouqi](https://t.me/luyouqi)
-4. V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-5. 4K影视Remux ：[https://t.me/Remux_4K](https://t.me/Remux_4K)
-6. **更多群组：[点击我](https://masonme.github.io/2020/06/11/telegram-group/)**
+* Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
