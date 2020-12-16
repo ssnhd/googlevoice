@@ -125,3 +125,4 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 ### Telegram 交流群
 
 * Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
+* V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
