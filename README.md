@@ -108,10 +108,10 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 防止收回
 
-[如果在 6 个月内没有拨打或接听电话，收发短信，Google 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)
-
 * 与朋友互相拨打电话，发送短信。
 * 拨打美国客服电话，如 Apple，Microsoft。
+
+>注：[如果在 6 个月内没有拨打或接听电话，收发短信，Google 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)
 
 ### 通话资费
 
