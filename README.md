@@ -106,22 +106,22 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![](pic/voice.jpg)
 
-### 防止收回
+### 防收回
 
 * 与朋友互相拨打电话，发送短信。
 * 拨打美国客服电话，如 Apple，Microsoft。
 
 >注：[如果在 6 个月内没有拨打或接听电话，收发短信，Google 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)
 
-### 通话资费
+### 资费
 
 * 中国：0.02美元/分钟
 * 更多资费详情：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
 
-### Google Voice 转移
+### 转移
 * https://github.com/masonme/googlevoice-transfer
 
-### Telegram 交流群
+### Telegram 交流
 
 * Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 * V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
