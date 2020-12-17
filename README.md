@@ -89,7 +89,7 @@
 
 ![](pic/011.png)
 
-### 手机上使用环聊（推荐）
+### 手机上使用环聊
 
 环聊设置 > 电话号码 > 打开接到来电和消息。
 
@@ -108,18 +108,17 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 防止收回
 
-[官方](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)：如果您在6个月内没有拨打或接听电话，收发短信，Google可能会收回您的Google语音号码（如果有的话）。我们不会收回已移植到Google语音或永久保存的号码。
+[如果在 6 个月内没有拨打或接听电话，收发短信，Google 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222)
 
-* 找有 Google Voice 的朋友互相电话 / 短信。
-* 拨打美国客服电话，例如 Apple，Microsoft。
+* 与朋友互相拨打电话，发送短信。
+* 拨打美国客服电话，如 Apple，Microsoft。
 
 ### 通话资费
 
-* 中国-手机/有线电话：0.02美元/分钟
-* 中国-香港手机/固定电话：0.03美元/分钟
-* 更多国家资费介绍：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
+* 中国：0.02美元/分钟
+* 更多资费详情：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
 
-### Google Voice 转移方法
+### Google Voice 转移
 * https://github.com/masonme/googlevoice-transfer
 
 ### Telegram 交流群
