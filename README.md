@@ -1,4 +1,4 @@
-# 注册 Google Voice 方案，成功率较高
+# 注册 Google Voice 方法 成功率较高
 
 ### 先知
 
