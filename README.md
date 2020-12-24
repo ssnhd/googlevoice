@@ -1,10 +1,15 @@
 # 注册 Google Voice 方法 成功率较高
 
+### Telegram 交流
+
+* Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
+* V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
+
 ### 先知
 
 - 本文不保证 100% 成功；
 - 如没有实体手机卡接收验证码，可选择虚拟平台（文中提供的仅供参考）；
-- 全程操作：**节点用全局模式**，**浏览器用无痕模式**。
+- 全局模式**，**浏览器用无痕模式。
 
 ### 功能
 
@@ -120,8 +125,3 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 转移
 * https://github.com/masonme/googlevoice-transfer
-
-### Telegram 交流
-
-* Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
-* V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
