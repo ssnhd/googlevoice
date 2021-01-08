@@ -11,12 +11,12 @@
 - 如没有实体手机卡接收验证码，可选择虚拟平台（文中提供的仅供参考）；
 - 全局模式，浏览器用无痕模式。
 
-### 功能
+### Google Voice 功能
 
-|      | 免费拨打美国加拿大电话，收发短信，还可以注册以下平台         |
+|      | 免费拨打美国，加拿大电话，收发短信                           |
 | :--- | :----------------------------------------------------------- |
-| 国内 | 爱奇艺、bilibili、抖音、京东、优酷、QQ/微信（支持换绑）…     |
-| 国外 | Amazon、Facebook、PayPal、Telegram、Twitter、WhatsApp（支持换绑）… |
+| 国内 | 爱奇艺、bilibili、抖音、京东、优酷、QQ/微信（换绑）…         |
+| 国外 | Amazon、Facebook、PayPal、Telegram、Twitter、WhatsApp（换绑）… |
 
 ### 步骤一、检测 IP
 
@@ -94,34 +94,36 @@
 
 ![](pic/011.png)
 
-### 手机上使用环聊
-
-环聊设置 > 电话号码 > 打开接到来电和消息。
-
-![](pic/huanliao.jpg)
-
-如果没有看到拨打电话的选项，可能是出于以下某个原因：
-
-- 不在美国境内，而你所在国家/地区可能不支持此功能。
-- 使用的是自己单位或学校的 Google Voice for G Suite 帐号。你可以使用 Google Voice 移动应用或通过 [voice.google.com](https://www.google.com/voice) 拨打电话。
-
 ### 手机上使用 Voice
 
-Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
+* iOS：使用非国区的 Apple ID 安装。
+* Android：在 Google Play 里安装。
+* Web：打开 Google Voice 官网登录或设置在 Gmail 里以邮件形式接收。
+
+> 注：Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![](pic/voice.jpg)
 
 ### 防收回
 
-* 与朋友互相拨打电话，发送短信。
+* 请勿违规，常使用；
+* 与朋友互相拨打电话或收发短信；
 * 拨打美国客服电话，如 Apple，Microsoft。
 
 >注：如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
 
-### 资费
+### 拨打电话（非美国，加拿大）资费
 
 * 中国：0.02美元/分钟
 * 更多资费详情：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
 
-### 转移
-* https://github.com/masonme/googlevoice-transfer
+### 如何充值？
+
+* 方法一：打开[官网](https://voice.google.com/u/3/billing)点击【话费充值】，选择金额（可选 10/25/50 美元），填写信用卡信息购买。
+* 方法二：使用 Google Voice 换绑微信后，可使用微信的 Wechat Out 充值（礼品卡）。
+
+### Google Voice 转移
+
+部分人不会注册而是在网上购买，商家会给一个 Google 账户并且 Google Voice 绑定在此号，为了避免封号等其他问题，强烈建议及时转移至自己的账户。
+
+转移方法：https://github.com/masonme/googlevoice-transfer
