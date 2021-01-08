@@ -114,8 +114,8 @@
 
 ### 拨打电话（非美国，加拿大）资费
 
-* 中国：0.02美元/分钟
-* 更多资费详情：[https://voice.google.com/u/0/rates?pli=1](https://voice.google.com/u/0/rates?pli=1)
+* 中国：0.02 美元/分钟
+* 更多国家/地区资费请打开 [Google Voice 通话费率](https://voice.google.com/u/0/rates?pli=1)进行查询。
 
 ### 如何充值？
 
@@ -126,4 +126,4 @@
 
 部分人不会注册而是在网上购买，商家会给一个 Google 账户并且 Google Voice 绑定在此号，为了避免封号等其他问题，强烈建议及时转移至自己的账户。
 
-转移方法：https://github.com/masonme/googlevoice-transfer
+友情推荐：[Google Voice 转移方法](https://github.com/masonme/googlevoice-transfer)
