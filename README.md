@@ -16,9 +16,11 @@
 | 国内注册 | 爱奇艺、bilibili、抖音、京东、优酷、QQ/微信（换绑）…         |
 | 国外注册 | Amazon、Facebook、PayPal、Telegram、Twitter、WhatsApp（换绑）… |
 
-### 步骤一、检测 IP
+### 步骤一、检测原生 IP
 
 节点切换为美国全局模式，浏览器无痕模式，打开  [WHOER](https://whoer.net)  检测路线伪装程度。
+
+> 注：部分人的 IP 虽然是美国，但不是原生 IP。
 
 ![](pic/002.jpg)
 
