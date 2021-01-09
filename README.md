@@ -14,7 +14,7 @@
 
 ### 步骤一、检测原生 IP
 
-节点切换为美国全局模式，浏览器无痕模式，打开  [WHOER](https://whoer.net)  检测路线伪装程度。
+节点路线为美国全局模式，浏览器无痕模式，打开  [WHOER](https://whoer.net)  检测路线伪装程度。
 
 > 注：部分人的 IP 虽然是美国，但不是原生 IP。
 
@@ -53,7 +53,7 @@
 
 3.3 勾选「I Agree」，点击「CONTINUE」。
 
-![](pic/009.1.png)
+![2021-01-09 at 18.21](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhm6y9jxuj31qi124agg.jpg)
 
 3.4 打开【I agree】点击【NEXT】。
 
@@ -77,9 +77,9 @@
 
 ### 步骤四 注册完成
 
-号码显示在右上角（如未显示号码，说明注册失败）。
+号码显示在右上角。
 
-![](pic/011.png)
+![2021-01-09 at 18.16](https://tva4.sinaimg.cn/large/008aobiRgy1gmhm3prql2j31qi124wlf.jpg)
 
 ### 手机上使用 Voice
 
