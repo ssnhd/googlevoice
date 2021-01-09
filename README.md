@@ -45,50 +45,43 @@
 
 ### 步骤三、代收短信
 
-3.1 打开 [verifywithsms](https://verifywithsms.com/) 注册并登陆，点击「RECHARGE」，选择 PayPal 支付（最近无法使用 PayPal 支付，请选择其他方式支付）。
+3.1 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击「RECHARGE」，选择支付方式进行充值 2.35 美元（最近无法使用 PayPal 支付）。
 
 > 备选：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击「Non VolP Numbers」再选择 Google Voice，费用略高于 verifywithsms。
 
-![](pic/008.png)
+![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
-3.2 输入 2.09 美元，登陆 PayPal 充值。
-> 注：如果付款成功余额未显示金额，不要着急，原因是Paypal有几率出现24小时到帐
+3.2 充值后点击左侧【CATALOG】，找到【Google Voice】点击购物车。
 
-![](pic/008.1.png)
+![2021-01-09 at 14.03](https://tva1.sinaimg.cn/large/008aobiRgy1gmheq8e6dxj31vy148wk1.jpg)
 
-3.3 充值后点击左侧「CATALOG」>「Google Voice」，点击购物车。
-
-![](pic/009.png)
-
-3.4 勾选「I Agree」，点击「CONTINUE」。
+3.3 勾选「I Agree」，点击「CONTINUE」。
 
 ![](pic/009.1.png)
 
-3.5 打开「I agree」，点击「NEXT」。
+3.4 打开【I agree】点击【NEXT】。
 
 ![](pic/010.png)
 
-3.6 会出现一个美国号码。
+3.5 出现一个美国电话号码。
 
 ![](pic/010.1.png)
 
-3.7 将号码填至 `步骤二` ，点击「发送代码」。
+3.6 将号码填至 `步骤二` ，点击【发送代码】。
 
 ![](pic/019.png)
 
-3.8 回到接收短信网站，点击「NEXT」会显示验证码。
+3.7 回到接收短信网站，点击【NEXT】会显示验证码。
 
 ![](pic/020.png)
 
-3.9 将验证码填至 `步骤二` ，点击「验证」。
+3.8 将验证码填至 `步骤二` ，点击【验证】。
 
 ![](pic/021.png)
 
 ### 步骤四 注册完成
 
-号码显示在右上角。
-
-> 注：如未显示号码，说明注册失败。
+号码显示在右上角（如未显示号码，说明注册失败）。
 
 ![](pic/011.png)
 
