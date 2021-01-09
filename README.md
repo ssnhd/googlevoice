@@ -5,10 +5,6 @@
 * Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 * V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
 
----
-
-本文不保证 100% 成功；如没有美国手机卡收验证码，可选择虚拟平台（文中提供的仅供参考）。
-
 ### Google Voice 功能
 
 |          | 免费拨打美国，加拿大电话，收发短信                           |
