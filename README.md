@@ -1,6 +1,6 @@
 # 注册 Google Voice 方法 成功率较高
 
-Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
+Telegram [Google 交流群](https://t.me/googlequn)
 
 ### Google Voice 功能
 
