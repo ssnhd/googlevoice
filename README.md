@@ -20,27 +20,25 @@ Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 
 ### 步骤二、挑选 Google Voice 号码
 
-2.1 打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击【选择电话号码】。
+2.1 打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击页面左下角【选择电话号码】。
 
-![](pic/004.png)
-
-2.2 系统会推荐一些 Google Voice 号码，找到自己喜欢的点击【选择】。
+2.2 系统会推荐一些号码，选择一自己喜欢的号码。
 
 ![](pic/005.png)
 
-2.3 此时需填入美国手机号码（如没有请看[步骤三](#步骤三代收短信)），点击【发送代码】。
+2.3 填入美国手机号（如没有请看[步骤三](#步骤三代收短信)）来绑定验收，点击【发送代码】。
 
 ![](pic/006.png)
 
-### 步骤三、代收短信
+### 步骤三、接码平台
 
-打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格可能存在浮动）。
+打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> **备选**：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击【Non VolP Numbers】再选择 Google Voice。
+> **备选**：[PVA Deals](https://pvadeals.com/product/non-voip/)  接码平台，点击【Non VolP Numbers】再选择 Google Voice。
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
-充值后点击左侧【CATALOG】，找到【Google Voice】点击购物车。
+充值后点击左侧【CATALOG】，找到【Google Voice】点击右侧购物车。
 
 ![2021-01-09 at 14.03](https://tva1.sinaimg.cn/large/008aobiRgy1gmheq8e6dxj31vy148wk1.jpg)
 
@@ -48,7 +46,7 @@ Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 
 ![2021-01-09 at 18.21](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhm6y9jxuj31qi124agg.jpg)
 
-打开【I agree】点击【NEXT】。
+选择 Google Voice ，打开【I agree】点击【NEXT】。
 
 ![](pic/010.png)
 
