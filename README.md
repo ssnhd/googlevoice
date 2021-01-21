@@ -66,17 +66,14 @@ Telegram [Google 交流群](https://t.me/googlequn)
 
 ![](pic/021.png)
 
-### 步骤四 注册完成
-
-号码显示在右上角。
+注册完成，Google Voice 号码显示在右上角。
 
 ![2021-01-09 at 18.16](https://tva4.sinaimg.cn/large/008aobiRgy1gmhm3prql2j31qi124wlf.jpg)
 
 ### 手机上使用 Voice
 
-* iOS：使用非国区的 Apple ID 安装。
-* Android：在 Google Play 里安装。
-* Web：打开 Google Voice 官网登录或设置在 Gmail 里以邮件形式接收。
+* iOS：非国区 Apple ID 安装。
+* Android：Google Play 里安装。
 
 > 注：Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
@@ -84,7 +81,7 @@ Telegram [Google 交流群](https://t.me/googlequn)
 
 ### 防收回
 
-* 请勿违规，常使用，与朋友互相拨打电话或收发短信；
+* 请勿违规，常使用，例如与朋友互相拨打电话 / 收发短信；
 * 拨打美国客服电话，如 Apple，Microsoft。
 
 >注：如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
