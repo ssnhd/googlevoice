@@ -1,9 +1,6 @@
 # 注册 Google Voice 方法 成功率较高
 
-### Telegram 交流
-
-* Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
-* V2EX 交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
+Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 
 ### Google Voice 功能
 
