@@ -28,7 +28,7 @@ Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 
 ![](pic/005.png)
 
-2.3 此时需填入美国手机号码（如没有看步骤三），点击【发送代码】。
+2.3 此时需填入美国手机号码（如没有请看[步骤三](#步骤三代收短信)），点击【发送代码】。
 
 ![](pic/006.png)
 
