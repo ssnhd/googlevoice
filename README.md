@@ -23,55 +23,51 @@
 
 ### 步骤二、挑选 Google Voice 号码
 
-2.1 打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击「选择电话号码」。
+2.1 打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击【选择电话号码】。
 
 ![](pic/004.png)
 
-2.2 系统会推荐一些 Google Voice 号码，找到自己喜欢的点击「选择」。
-
-> 注：支持输入 `区号` 或 `4位数` 搜索
+2.2 系统会推荐一些 Google Voice 号码，找到自己喜欢的点击【选择】。
 
 ![](pic/005.png)
 
-2.3 此时需填入美国手机号码，点击「发送代码」。
-
-> 注：如没有手机号码，往下看 `步骤三`
+2.3 此时需填入美国手机号码（如没有看步骤三），点击【发送代码】。
 
 ![](pic/006.png)
 
 ### 步骤三、代收短信
 
-3.1 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击「RECHARGE」，选择支付方式进行充值 2.35 美元（最近无法使用 PayPal 支付）。
+打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格可能存在浮动）。
 
-> 备选：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击「Non VolP Numbers」再选择 Google Voice，费用略高于 verifywithsms。
+> **备选**：[PVA Deals](https://pvadeals.com/product/non-voip/) 接码网站 ，点击【Non VolP Numbers】再选择 Google Voice。
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
-3.2 充值后点击左侧【CATALOG】，找到【Google Voice】点击购物车。
+充值后点击左侧【CATALOG】，找到【Google Voice】点击购物车。
 
 ![2021-01-09 at 14.03](https://tva1.sinaimg.cn/large/008aobiRgy1gmheq8e6dxj31vy148wk1.jpg)
 
-3.3 勾选「I Agree」，点击「CONTINUE」。
+勾选【I Agree】，点击【CONTINUE】。
 
 ![2021-01-09 at 18.21](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhm6y9jxuj31qi124agg.jpg)
 
-3.4 打开【I agree】点击【NEXT】。
+打开【I agree】点击【NEXT】。
 
 ![](pic/010.png)
 
-3.5 出现一个美国电话号码。
+出现一个美国电话号码。
 
 ![](pic/010.1.png)
 
-3.6 将号码填至[步骤二](步骤二挑选-Google-Voice号码) ，点击【发送代码】。
+将号码填至[步骤二 2.3](#步骤二挑选-google-voice号码) ，点击【发送代码】。
 
 ![](pic/019.png)
 
-3.7 回到接收短信网站，点击【NEXT】会显示验证码。
+回到接收短信网页，点击【NEXT】会显示验证码。
 
 ![](pic/020.png)
 
-3.8 将验证码填至[步骤二](步骤二挑选-Google-Voice号码) ，点击【验证】。
+将验证码填至[步骤二 2.3](#步骤二挑选-google-voice号码) ，点击【验证】。
 
 ![](pic/021.png)
 
@@ -93,8 +89,7 @@
 
 ### 防收回
 
-* 请勿违规，常使用；
-* 与朋友互相拨打电话或收发短信；
+* 请勿违规，常使用，与朋友互相拨打电话或收发短信；
 * 拨打美国客服电话，如 Apple，Microsoft。
 
 >注：如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
@@ -111,6 +106,4 @@
 
 ### Google Voice 转移
 
-部分人不会注册而是在网上购买，商家会给一个 Google 账户并且 Google Voice 绑定在此号，为了避免封号等其他问题，强烈建议及时转移至自己的账户。
-
-友情推荐：[Google Voice 转移方法](https://github.com/masonme/googlevoice-transfer)
+部分人不会注册而是在网上购买，商家会给一个 Google 账户并且 Google Voice 绑定在此号，为了避免封号等其他问题，强烈建议及时[转移](https://github.com/masonme/googlevoice-transfer)至自己的账户。
