@@ -56,7 +56,7 @@ Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 
 ![](pic/010.1.png)
 
-将号码填至[步骤二 2.3](#步骤二挑选-google-voice号码) ，点击【发送代码】。
+将号码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【发送代码】。
 
 ![](pic/019.png)
 
@@ -64,7 +64,7 @@ Telegram Google 交流群：[https://t.me/googlequn](https://t.me/googlequn)
 
 ![](pic/020.png)
 
-将验证码填至[步骤二 2.3](#步骤二挑选-google-voice号码) ，点击【验证】。
+将验证码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【验证】。
 
 ![](pic/021.png)
 
