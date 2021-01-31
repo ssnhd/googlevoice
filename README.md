@@ -15,7 +15,7 @@ Telegram [Google 交流群](https://t.me/googlequn)
 
 > 注：部分人的 IP 虽然是美国，但不是原生 IP。
 
-![](pic/002.jpg)
+![](pic/1.png)
 
 
 ### 步骤二、挑选 Google Voice 号码
@@ -24,11 +24,11 @@ Telegram [Google 交流群](https://t.me/googlequn)
 
 2.2 输入自己喜欢的数字选择一个号码。
 
-![](pic/0222.png)
+![](pic/2.png)
 
 2.3 选择号码后会提示【验证】，填入美国手机号（如没有请看[步骤三](#步骤三接码平台)）来绑定验收，点击【发送代码】。
 
-![](pic/0223.png)
+![](pic/3.png)
 
 ### 步骤三、接码平台
 
@@ -48,23 +48,23 @@ Telegram [Google 交流群](https://t.me/googlequn)
 
 选择 Google Voice ，打开【I agree】点击【NEXT】。
 
-![](pic/010.png)
+![](pic/4.png)
 
 出现一个美国电话号码。
 
-![](pic/010.1.png)
+![](pic/8.png)
 
 将号码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【发送代码】。
 
-![](pic/019.png)
+![](pic/9.png)
 
 回到接收短信网页，点击【NEXT】会显示验证码。
 
-![](pic/020.png)
+![](pic/10.png)
 
 将验证码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【验证】。
 
-![](pic/021.png)
+![](pic/11.png)
 
 注册完成，Google Voice 号码显示在右上角。
 
@@ -77,7 +77,7 @@ Telegram [Google 交流群](https://t.me/googlequn)
 
 > 注：Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
-![](pic/voice.jpg)
+![](pic/12.png)
 
 ### 防收回
 
