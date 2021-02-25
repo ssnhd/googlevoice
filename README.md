@@ -1,8 +1,19 @@
 # 注册 Google Voice 方法 成功率较高
 
-[![](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/googlequn)
+### 目录
 
-### Google Voice 功能
+1. [功能](#功能)
+2. [检测原生 IP](#步骤一检测原生-ip)
+3. [挑选 Google Voice 号码](#步骤二挑选-google-voice-号码)
+4. [接码平台](#步骤三接码平台)
+5. [手机上使用 Voice](#手机上使用-voice)
+6. [防回收](#防回收)
+7. [资费](#拨打电话非美国加拿大资费)
+8. [如何充值](#如何充值)
+9. [Google Voice 转移](#google-voice-转移)
+10. [![](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/googlequn)
+
+### 功能
 
 |          | 免费拨打美国，加拿大电话，收发短信                           |
 | :------- | :----------------------------------------------------------- |
