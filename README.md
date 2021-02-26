@@ -11,7 +11,8 @@
 7. [资费](#拨打电话非美国加拿大资费)
 8. [如何充值](#如何充值)
 9. [Google Voice 转移](#google-voice-转移)
-10. [![](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/googlequn)
+10. [判断哪些号码可以注册 Google Voice](判断哪些号码可以注册-google-voice)
+11. [![](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/googlequn)
 
 ### 功能
 
@@ -81,6 +82,8 @@
 
 ![2021-01-09 at 18.16](https://tva4.sinaimg.cn/large/008aobiRgy1gmhm3prql2j31qi124wlf.jpg)
 
+---
+
 ### 手机上使用 Voice
 
 * iOS：非国区 Apple ID 安装。
@@ -90,6 +93,8 @@
 
 ![](pic/12.png)
 
+---
+
 ### 防收回
 
 * 请勿违规，常使用，例如与朋友互相拨打电话 / 收发短信；
@@ -97,16 +102,38 @@
 
 >注：如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
 
+---
+
 ### 拨打电话（非美国，加拿大）资费
 
 * 中国：0.02 美元/分钟
 * 更多国家/地区资费请打开 [Google Voice 通话费率](https://voice.google.com/u/0/rates?pli=1)进行查询。
+
+---
 
 ### 如何充值？
 
 * 方法一：打开[官网](https://voice.google.com/u/3/billing)点击【话费充值】，选择金额（可选 10/25/50 美元），填写信用卡信息购买。
 * 方法二：使用 Google Voice 换绑微信后，可使用微信的 Wechat Out 充值（礼品卡）。
 
+---
+
 ### Google Voice 转移
 
 部分人不会注册而是在网上购买，商家会给一个 Google 账户并且 Google Voice 绑定在此号，为了避免封号等其他问题，强烈建议及时[转移](https://github.com/masonme/googlevoice-transfer)至自己的账户。
+
+---
+
+### 判断哪些号码可以注册 Google Voice
+
+虚拟/固定号码无法注册 Google Voice，那么如果你使用接码平台，如何判断呢？
+
+打开 [https://freecarrierlookup.com/](https://freecarrierlookup.com/)，输入号码，点击〔Seach〕。
+
+* 显示 `n` 则没办法注册 Google Voice。
+
+![9JCzij7K6rVy2AQ](https://i.loli.net/2021/02/26/9JCzij7K6rVy2AQ.png)
+
+* 显示 `y` 则可以注册 Google Voice。
+
+![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)
