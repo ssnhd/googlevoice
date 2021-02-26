@@ -11,7 +11,7 @@
 7. [资费](#拨打电话非美国加拿大资费)
 8. [如何充值](#如何充值)
 9. [Google Voice 转移](#google-voice-转移)
-10. [判断哪些号码可以注册 Google Voice](判断哪些号码可以注册-google-voice)
+10. [判断哪些号码可以注册 Google Voice](#判断哪些号码可以注册-google-voice)
 11. [![](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/googlequn)
 
 ### 功能
