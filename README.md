@@ -27,7 +27,7 @@
 
 > 注：部分人的 IP 虽然是美国，但不是原生 IP。
 
-![](pic/1.png)
+![uHd3gktiC98DXfy](https://i.loli.net/2021/03/02/uHd3gktiC98DXfy.png)
 
 
 ### 步骤二、挑选 Google Voice 号码
@@ -36,17 +36,17 @@
 
 2.2 输入自己喜欢的数字选择一个号码。
 
-![](pic/2.png)
+![jeDNBWAMYazm6ko](https://i.loli.net/2021/03/02/jeDNBWAMYazm6ko.png)
 
 2.3 选择号码后会提示【验证】，填入美国手机号（如没有请看[步骤三](#步骤三接码平台)）来绑定验收，点击【发送代码】。
 
-![](pic/3.png)
+![Bd2OEmhbHKrlzX7](https://i.loli.net/2021/03/02/Bd2OEmhbHKrlzX7.png)
 
 ### 步骤三、接码平台
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> **备选**：[PVA Deals](https://pvadeals.com/product/non-voip/)  接码平台，点击【Non VolP Numbers】再选择 Google Voice。
+> **备选接码平台**：[PVA Deals](https://pvadeals.com/product/non-voip/)，点击【Non VolP Numbers】再选择 Google Voice。
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
@@ -60,23 +60,23 @@
 
 选择 Google Voice ，打开【I agree】点击【NEXT】。
 
-![](pic/4.png)
+![yEiDzZfcFkQ3IXm](https://i.loli.net/2021/03/02/yEiDzZfcFkQ3IXm.png)
 
 出现一个美国电话号码。
 
-![](pic/8.png)
+![N8Q9y1nJBi652DK](https://i.loli.net/2021/03/02/N8Q9y1nJBi652DK.png)
 
 将号码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【发送代码】。
 
-![](pic/9.png)
+![3lOiZAskErRJM1U](https://i.loli.net/2021/03/02/3lOiZAskErRJM1U.png)
 
 回到接收短信网页，点击【NEXT】会显示验证码。
 
-![](pic/10.png)
+![3lOiZAskErRJM1U](https://i.loli.net/2021/03/02/3lOiZAskErRJM1U.png)
 
 将验证码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【验证】。
 
-![](pic/11.png)
+![iERqxuVOdGea54o](https://i.loli.net/2021/03/02/iERqxuVOdGea54o.png)
 
 注册完成，Google Voice 号码显示在右上角。
 
@@ -91,7 +91,7 @@
 
 > 注：Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
-![](pic/12.png)
+![TM7HSyVJK5fbnCQ](https://i.loli.net/2021/03/02/TM7HSyVJK5fbnCQ.png)
 
 ---
 
@@ -128,7 +128,9 @@
 
 虚拟/固定号码无法注册 Google Voice，如果使用接码平台，如何判断呢？
 
-打开 [https://freecarrierlookup.com/](https://freecarrierlookup.com/)，输入号码和验证码，点击〔Seach〕。
+> 注：本方法仅供参考，可能存在部分号码识别不准确。
+
+打开 [https://freecarrierlookup.com/](https://freecarrierlookup.com/)，输入号码和验证码，点击【Seach】。
 
 * 显示 `n` 则没办法注册 Google Voice。
 
