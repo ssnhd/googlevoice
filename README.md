@@ -46,7 +46,9 @@
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> **备选接码平台**：[PVA Deals](https://pvadeals.com/product/non-voip/)，点击【Non VolP Numbers】再选择 Google Voice。
+> 备选：[PVA Deals](https://pvadeals.com/product/non-voip/) 平台，点击【Non VolP Numbers】。
+>
+> 注意：所有接码平台仅供参考。
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
