@@ -66,6 +66,8 @@
 
 出现一个美国电话号码。
 
+> 注意：[判断哪些号码可以注册 Google Voice](#判断哪些号码可以注册-google-voice)
+
 ![N8Q9y1nJBi652DK](https://i.loli.net/2021/03/02/N8Q9y1nJBi652DK.png)
 
 将号码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【发送代码】。
