@@ -16,10 +16,10 @@
 
 ### 功能
 
-| 美国/加拿大电话短信 | 免费                                                         |
-| :------------------ | :----------------------------------------------------------- |
-| 国内注册            | 爱奇艺、bilibili、今日头条、~~抖音~~、京东、优酷、QQ/微信（换绑）… |
-| 国外注册            | Telegram、Cloubhouse、Amazon、Facebook、PayPal、Twitter…     |
+| 美国/加拿大电话短信 | 免费                                                     |
+| :------------------ | :------------------------------------------------------- |
+| 国内注册            | 爱奇艺、bilibili、~~抖音~~、京东、优酷、QQ/微信（换绑）… |
+| 国外注册            | Telegram、Cloubhouse、Amazon、Facebook、PayPal、Twitter… |
 
 ### 步骤一、检测原生 IP
 
@@ -46,9 +46,7 @@
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> 备选：[PVA Deals](https://pvadeals.com/product/non-voip/) 平台，点击【Non VolP Numbers】。
->
-> 注意：所有接码平台仅供参考。
+> **备选接码平台**：[PVA Deals](https://pvadeals.com/product/non-voip/)，点击【Non VolP Numbers】再选择 Google Voice。
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
@@ -65,8 +63,6 @@
 ![yEiDzZfcFkQ3IXm](https://i.loli.net/2021/03/02/yEiDzZfcFkQ3IXm.png)
 
 出现一个美国电话号码。
-
-> 注意：[判断哪些号码可以注册 Google Voice](#判断哪些号码可以注册-google-voice)
 
 ![N8Q9y1nJBi652DK](https://i.loli.net/2021/03/02/N8Q9y1nJBi652DK.png)
 
