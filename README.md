@@ -46,7 +46,9 @@
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击【RECHARGE】，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> **备选接码平台**：[PVA Deals](https://pvadeals.com/product/non-voip/)，点击【Non VolP Numbers】再选择 Google Voice。
+> 备选接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)
+>
+> 注意：接码平台仅供参考
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
@@ -100,7 +102,7 @@
 * 请勿违规，常使用，例如与朋友互相拨打电话 / 收发短信；
 * 拨打美国客服电话，如 Apple，Microsoft。
 
->注：如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
+>注意：如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
 
 ---
 
@@ -130,7 +132,7 @@
 
 > 注：本方法仅供参考，可能存在部分号码识别不准确。
 
-打开 [https://freecarrierlookup.com/](https://freecarrierlookup.com/)，输入号码和验证码，点击【Seach】。
+打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码和验证码，点击【Seach】。
 
 * 显示 `n` 则没办法注册 Google Voice。
 
