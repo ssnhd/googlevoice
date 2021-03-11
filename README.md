@@ -32,13 +32,11 @@
 
 ### 步骤二、挑选 Google Voice 号码
 
-2.1 打开 [Google Voice](https://voice.google.com/) 并使用 Google 账号登陆，点击页面左下角【选择电话号码】。
-
-2.2 输入自己喜欢的数字选择一个号码。
+打开 [Google Voice](https://voice.google.com/) 并用 Google 账号登陆，点击页面左下角【选择电话号码】，输入数字选择一个号码。
 
 ![jeDNBWAMYazm6ko](https://i.loli.net/2021/03/02/jeDNBWAMYazm6ko.png)
 
-2.3 选择号码后会提示【验证】，填入美国手机号（如没有请看[步骤三](#步骤三接码平台)）来绑定验收，点击【发送代码】。
+选择号码后会提示【验证】，填入美国手机号（如没有实体号请看[步骤三](#步骤三接码平台)），点击【发送代码】。
 
 ![Bd2OEmhbHKrlzX7](https://i.loli.net/2021/03/02/Bd2OEmhbHKrlzX7.png)
 
@@ -56,7 +54,7 @@
 
 ![2021-01-09 at 14.03](https://tva1.sinaimg.cn/large/008aobiRgy1gmheq8e6dxj31vy148wk1.jpg)
 
-勾选【I Agree】，点击【CONTINUE】。
+勾选【I Agree】，再点击【CONTINUE】。
 
 ![2021-01-09 at 18.21](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhm6y9jxuj31qi124agg.jpg)
 
@@ -70,13 +68,11 @@
 
 ![N8Q9y1nJBi652DK](https://i.loli.net/2021/03/02/N8Q9y1nJBi652DK.png)
 
-将号码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【发送代码】。
+将号码填至前面的关联电话号码，点击【发送代码】。
 
 ![3lOiZAskErRJM1U](https://i.loli.net/2021/03/02/3lOiZAskErRJM1U.png)
 
 回到接收短信网页，点击【NEXT】会显示验证码。
-
-![3lOiZAskErRJM1U](https://i.loli.net/2021/03/02/3lOiZAskErRJM1U.png)
 
 将验证码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击【验证】。
 
