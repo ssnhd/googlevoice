@@ -70,7 +70,7 @@
 
 出现一个美国电话号码。
 
-> 小贴士：[判断哪些号码可以注册 Google Voice](#判断哪些号码可以注册-google-voice)
+> 小贴士：[判断接码号是否支持注册](#判断接码号是否支持注册)
 
 ![N8Q9y1nJBi652DK](https://i.loli.net/2021/03/02/N8Q9y1nJBi652DK.png)
 
