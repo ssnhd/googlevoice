@@ -39,7 +39,11 @@
 
 ### 步骤二、挑选 Google Voice 号码
 
-打开 [Google Voice](https://voice.google.com/) 并用 Google 账号登陆，点击页面左下角【选择电话号码】，输入数字选择一个号码。
+打开 [Google Voice](https://voice.google.com/) 登录 Google 账号，选择 **Web** 网页端。
+
+![2021-04-04-01.14.46.@2x](https://tva3.sinaimg.cn/large/008eZBHKly1gp728ufsslj32cg1rojvu.jpg)
+
+点击**选择电话号码**，输入数字选择一个号码。
 
 ![jeDNBWAMYazm6ko](https://i.loli.net/2021/03/02/jeDNBWAMYazm6ko.png)
 
