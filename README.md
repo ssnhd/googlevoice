@@ -3,16 +3,16 @@
 ### 目录
 
 1. [基本功能](#基本功能)
-2. [检测IP](#步骤一检测-ip)
-3. [挑选号码](#步骤二挑选-google-voice-号码)
-4. [接码平台](#步骤三接码平台)
+2. [检测IP](#检测-ip)
+3. [挑选号码](#挑选-google-voice-号码)
+4. [接码平台](#接码平台)
 5. [手机客户端](#手机客户端)
 6. [防收回](#防收回)
 7. [资费](#资费)
 8. [充值](#充值)
 9. [转移](#转移)
 10. [判断接码号是否支持注册](#判断接码号是否支持注册)
-11. [![](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/googlequn)
+11. [**Telegram 交流群**](https://t.me/googlequn)
 
 ### 基本功能
 
@@ -28,7 +28,7 @@
 | 微博     | 需全局美节点 |            |      |                                          |
 | 微信/QQ  |   支持换绑   |            |      |                                          |
 
-### 步骤一、检测 IP
+### 检测 IP
 
 节点路线为美国全局模式，浏览器无痕模式，打开  [WHOER](https://whoer.net)  检测路线伪装程度。
 
@@ -37,7 +37,7 @@
 ![uHd3gktiC98DXfy](https://i.loli.net/2021/03/02/uHd3gktiC98DXfy.png)
 
 
-### 步骤二、挑选 Google Voice 号码
+### 挑选 Google Voice 号码
 
 打开 [Google Voice](https://voice.google.com/) 登录 Google 账号，选择 **Web** 网页端。
 
@@ -51,7 +51,7 @@
 
 ![Bd2OEmhbHKrlzX7](https://i.loli.net/2021/03/02/Bd2OEmhbHKrlzX7.png)
 
-### 步骤三、接码平台
+### 接码平台
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击**RECHARGE**，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
@@ -82,9 +82,7 @@
 
 ![3lOiZAskErRJM1U](https://i.loli.net/2021/03/02/3lOiZAskErRJM1U.png)
 
-回到接收短信网页，点击 **NEXT** 会显示验证码。
-
-将验证码填至[步骤二 2.3](#步骤二挑选-google-voice-号码) ，点击**验证**。
+回到接收短信网页，点击 **NEXT** 会显示验证码。将验证码填至 Voice 验证码框，点击**验证**。
 
 ![iERqxuVOdGea54o](https://i.loli.net/2021/03/02/iERqxuVOdGea54o.png)
 
@@ -98,8 +96,8 @@
 
 Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
->**iOS**：非国区 Apple ID 在 App Store 里安装。
->**Android**：Google Play 里安装。
+>**iOS**：非国区 App Store 安装。
+>**Android**：Google Play 安装。
 
 ![TM7HSyVJK5fbnCQ](https://i.loli.net/2021/03/02/TM7HSyVJK5fbnCQ.png)
 
@@ -107,7 +105,7 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 防收回
 
-* 勿违规，常使用，例如与朋友互相打电话 / 发短信；
+* 常使用，例如与朋友互相打电话 / 发短信；
 * 拨打美国客服电话，如 Apple，Microsoft。
 
 >⚠️ 如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
