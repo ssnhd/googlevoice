@@ -1,5 +1,10 @@
 # 注册 Google Voice 方法 成功率较高
+### 联系信息
 
+* Twitter：[@yifangme](https://twitter.com/yifangme)
+* Telegram 交流群：[@googlequn](https://t.me/googlequn) 
+
+---
 ### 目录
 
 1. [基本功能](#基本功能)
@@ -12,8 +17,8 @@
 8. [充值](#充值)
 9. [转移](#转移)
 10. [判断接码号是否支持注册](#判断接码号是否支持注册)
-11. [**Telegram 交流群**](https://t.me/googlequn)
 
+---
 ### 基本功能
 
 | 国内     |     注册     | 国外       | 注册 | 其他优点                                 |
@@ -146,5 +151,5 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)
 
-🔝[返回顶部](#目录)
+🔝[返回顶部](#联系信息)
 
