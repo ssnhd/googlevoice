@@ -1,9 +1,6 @@
 # 注册 Google Voice 方法 成功率较高
-### 联系信息
 
-* Twitter：[@yifangme](https://twitter.com/yifangme)
-* Telegram 交流群：[@googlequn](https://t.me/googlequn) 
-
+[![](https://img.shields.io/badge/Twitter-%40yifangme-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/googlequn)  
 ---
 ### 目录
 
@@ -151,5 +148,5 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)
 
-🔝[返回顶部](#联系信息)
+🔝[返回顶部](#注册-google-voice-方法-成功率较高)
 
