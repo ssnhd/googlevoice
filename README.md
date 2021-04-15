@@ -141,8 +141,6 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码，点击【Seach】。
 
-> ⚠️ 本方法仅供参考，可能存在部分号码识别不准确。
-
 显示 `n` 则不能注册 Google Voice。
 
 ![9JCzij7K6rVy2AQ](https://i.loli.net/2021/02/26/9JCzij7K6rVy2AQ.png)
