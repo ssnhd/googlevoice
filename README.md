@@ -1,6 +1,6 @@
 # 注册 Google Voice 方法 成功率较高
 
-[![](https://img.shields.io/badge/Twitter-%40yifangme-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/googlequn)  
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/googlequn)  
 ---
 ### 目录
 
@@ -123,8 +123,9 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 充值
 
-* 方法一：打开[官网](https://voice.google.com/u/3/billing)点击【话费充值】，选择金额（可选 10/25/50 美元），填写信用卡信息购买。
-* 方法二：使用 Google Voice 换绑微信后，可使用微信的 Wechat Out 充值（礼品卡）。
+打开 [Voice](https://voice.google.com/u/3/billing) 点击【话费充值】，选择金额（可选 $10/25/50），填写信用卡信息购买。
+
+如果使用 Wechat Out，只要将微信换绑 Google Voice 后即会出现该功能，支持微信内充值。
 
 ---
 
@@ -136,15 +137,17 @@ Voice 设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ### 判断接码号是否支持注册
 
-虚拟/固定号码无法注册 Google Voice，如果使用接码平台，如何判断呢？打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码和验证码，点击【Seach】。
+虚拟/固定号码无法注册 Google Voice，如果使用接码平台，如何判断呢？
+
+打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码，点击【Seach】。
 
 > ⚠️ 本方法仅供参考，可能存在部分号码识别不准确。
 
-* 显示 `n` 则没办法注册 Google Voice。
+显示 `n` 则不能注册 Google Voice。
 
 ![9JCzij7K6rVy2AQ](https://i.loli.net/2021/02/26/9JCzij7K6rVy2AQ.png)
 
-* 显示 `y` 则可以注册 Google Voice。
+显示 `y` 则可以注册 Google Voice。
 
 ![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)
 
