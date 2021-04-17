@@ -98,7 +98,8 @@
 
 * iOS：非国区 App Store 安装。
 * Android：Google Play 安装。
-> 安装好登录 Voice，打开设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
+
+安装好登录 Voice，打开设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![](https://i.loli.net/2021/03/02/TM7HSyVJK5fbnCQ.png)
 
@@ -107,9 +108,9 @@
 ### 防收回
 
 * 常使用，例如与朋友互相打电话 / 发短信；
-* 拨打美国客服电话，如 Apple，Microsoft。
+* 拨打美国客服电话，例如：Apple，Microsoft。
 
->⚠️ 如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回已移植到 Google 语音或永久保存的号码。
+> 如果在 6 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回永久号码。
 
 ---
 
