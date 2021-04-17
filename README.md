@@ -137,9 +137,7 @@
 
 ### 判断接码号是否支持注册
 
-虚拟/固定号码无法注册 Google Voice，如果使用接码平台，如何判断呢？
-
-打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码，点击 **Seach**。
+虚拟/固定号码无法注册 Google Voice，如果使用接码平台，如何判断呢？打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码，点击 **Seach**。
 
 显示 `n` 则不能注册 Google Voice。
 
