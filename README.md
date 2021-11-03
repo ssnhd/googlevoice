@@ -49,7 +49,7 @@
 
 ![](https://i.loli.net/2021/03/02/jeDNBWAMYazm6ko.png)
 
-选择号码后会提示**验证**，填入美国手机号（如没有实体号码请看[步骤三](#步骤三接码平台)），点击**发送代码**。
+选择号码后会提示**验证**，填入美国手机号，点击**发送代码**。
 
 ![](https://i.loli.net/2021/03/02/Bd2OEmhbHKrlzX7.png)
 
@@ -57,7 +57,7 @@
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击**RECHARGE**，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> 备选接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)，⚠️接码平台仅供参考。
+> 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)（注：接码平台仅供参考）。
 >
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
@@ -107,10 +107,11 @@
 
 ### 防收回
 
-* 常使用，例如与朋友互相打电话 / 发短信；
-* 拨打美国客服电话，例如：Apple，Microsoft。
+* 常使用，例如与其他人互相打电话 / 发短信；
+* 拨打美国客服电话，例如：Apple，Microsoft；
+* 注册两个 GV 号，互相联系。
 
-> 如果在 3 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim) 会收回号码。不会收回永久号码。
+> 3 个月内没有拨打/接听电话或发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim) 会收回号码。
 
 ---
 
@@ -123,9 +124,9 @@
 
 ### 充值
 
-打开 [Voice](https://voice.google.com/u/3/billing) 点击**话费充值**，选择金额，填写信用卡信息购买。
+* 打开 [Voice](https://voice.google.com/u/3/billing) 点击**话费充值**，选择金额，填写信用卡信息购买。
 
-如果使用 Wechat Out，只要将微信换绑 Google Voice 后即会出现该功能，支持微信内充值。
+* 使用 Wechat Out，只要将微信换绑 Google Voice 后即会出现该功能，支持微信内充值。
 
 ---
 
