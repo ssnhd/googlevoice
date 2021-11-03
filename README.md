@@ -110,7 +110,7 @@
 * 常使用，例如与朋友互相打电话 / 发短信；
 * 拨打美国客服电话，例如：Apple，Microsoft。
 
-> 如果在 3 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222) 会收回号码。不会收回永久号码。
+> 如果在 3 个月内没有拨打或接听电话，收发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim) 会收回号码。不会收回永久号码。
 
 ---
 
