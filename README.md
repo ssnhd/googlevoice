@@ -57,8 +57,9 @@
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击**RECHARGE**，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)（注：接码平台仅供参考）。
->
+> * 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)
+
+**注：本文提供的接码平台仅供参考！！！**
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
