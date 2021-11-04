@@ -4,19 +4,19 @@
 ---
 ### 目录
 
-1. [基本功能](#基本功能)
-2. [原生 IP 检测](#检测-ip)
-3. [挑选 Voice](#挑选-google-voice-号码)
+1. [常见使用场景](#常见使用场景)
+2. [IP 检测](#IP-检测)
+3. [挑选号码](#挑选号码)
 4. [接码平台](#接码平台)
-5. [Voice 客户端](#voice-客户端)
-6. [防收回](#防收回)
+5. [客户端](#客户端)
+6. [保号](#保号)
 7. [资费](#资费)
 8. [充值](#充值)
-9. [Voice 转移](#转移)
-10. [判断接码号是否支持注册](#判断接码号是否支持注册)
+9. [转移](#转移)
+10. [接码平台运营商查询服务](#接码平台运营商查询服务)
 
 ---
-### 基本功能
+### 常见使用场景
 
 | 国内     |     注册     | |国外       | 注册 | |其他优点                                 |
 | :------- | :----------: | :----------: | :--------- | :--: | :--------- |:--------------------------------------- |
@@ -30,7 +30,7 @@
 | 微博     | 需全局美节点 |   |         |      |   |                                       |
 | 微信/QQ  |   支持换绑   |   |         |      |   |                                       |
 
-### 检测 IP
+### IP 检测
 
 节点路线为美国全局模式，浏览器无痕模式，打开  [WHOER](https://whoer.net)  检测路线伪装程度。
 
@@ -39,7 +39,7 @@
 ![](https://i.imgur.com/cvJ5I32.jpg)
 
 
-### 挑选 Google Voice 号码
+### 挑选号码
 
 打开 [Google Voice](https://voice.google.com/) 登录 Google 账号，选择 **Web** 网页端。
 
@@ -95,7 +95,7 @@
 
 ---
 
-### Voice 客户端
+### 客户端
 
 * iOS：非国区 App Store 安装。
 * Android：Google Play 安装。
@@ -106,13 +106,12 @@
 
 ---
 
-### 防收回
+### 保号
+3 个月内没有拨打/接听电话或发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim) 会收回号码。
 
 * 常使用，例如与其他人互相打电话 / 发短信；
 * 拨打美国客服电话，例如：Apple，Microsoft；
 * 注册两个 GV 号，互相联系。
-
-> 3 个月内没有拨打/接听电话或发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim) 会收回号码。
 
 ---
 
@@ -137,17 +136,15 @@
 
 ---
 
-### 判断接码号是否支持注册
+### 接码平台运营商查询服务
 
 虚拟/固定号码无法注册 Google Voice，如果使用接码平台，如何判断呢？打开 [freecarrierlookup](https://freecarrierlookup.com/) 输入号码，点击 **Seach**。
 
-显示 `n` 则不能注册 Google Voice。
+* 显示 `n` 则不能注册 Google Voice。
 
 ![9JCzij7K6rVy2AQ](https://i.loli.net/2021/02/26/9JCzij7K6rVy2AQ.png)
 
-显示 `y` 则可以注册 Google Voice。
+* 显示 `y` 则可以注册 Google Voice。
 
 ![FrnlvOcho8sVRbQ](https://i.loli.net/2021/02/26/FrnlvOcho8sVRbQ.png)
-
-🔝[返回顶部](#注册-google-voice-方法-成功率较高)
 
