@@ -36,7 +36,7 @@
 
 > 注：部分人的 IP 虽然是美国，但不是原生 IP。
 
-![uHd3gktiC98DXfy](https://i.loli.net/2021/03/02/uHd3gktiC98DXfy.png)
+![](https://i.imgur.com/cvJ5I32.jpg)
 
 
 ### 挑选 Google Voice 号码
@@ -57,7 +57,7 @@
 
 打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击**RECHARGE**，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
-> * 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)
+> 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)，如果你有更好的，欢迎在 [Issues](https://github.com/maomiui/googlevoice/issues) 里留言，方便其他人。
 
 **注：本文提供的接码平台仅供参考！！！**
 
