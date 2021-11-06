@@ -50,6 +50,7 @@
 ![](https://i.loli.net/2021/03/02/jeDNBWAMYazm6ko.png)
 
 选择号码后会提示**验证**，填入美国手机号，点击**发送代码**。
+> 注：如果没有美国实体手机号接验证码，请往下看选择接码平台。
 
 ![](https://i.loli.net/2021/03/02/Bd2OEmhbHKrlzX7.png)
 
