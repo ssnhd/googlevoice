@@ -41,22 +41,22 @@
 
 ### 挑选号码
 
-打开 [Google Voice](https://voice.google.com/) 登录 Google 账号，选择 **Web** 网页端。
+打开 [Google Voice](https://voice.google.com/) 登录 Google 账号，选择手机端或网页端。
 
-![](https://tva3.sinaimg.cn/large/008eZBHKly1gp728ufsslj32cg1rojvu.jpg)
+![](https://i.imgur.com/iB40Erd.png)
 
-点击**选择电话号码**，输入数字选择一个号码。
+点击**选择电话号码**，输入 `区号` 或 `自己喜欢的数字` 挑选号码。
 
 ![](https://i.loli.net/2021/03/02/jeDNBWAMYazm6ko.png)
 
-选择号码后会提示**验证**，填入美国手机号，点击**发送代码**。
+选择号码后会提示【验证】，填入美国手机号，点击**发送代码**。
 > 注：如果没有美国实体手机号接验证码，请往下看选择接码平台。
 
 ![](https://i.loli.net/2021/03/02/Bd2OEmhbHKrlzX7.png)
 
 ### 接码平台
 
-打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击**RECHARGE**，充值 2.35 美元（价格 / 支付方式可能存在变化）。
+打开 [verifywithsms](https://verifywithsms.com/) 注册登陆，点击 **RECHARGE**，充值 2.35 美元（价格 / 支付方式可能存在变化）。
 
 > 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)，如果你有更好的，欢迎在 [Issues](https://github.com/maomiui/googlevoice/issues) 里留言，方便其他人。
 
