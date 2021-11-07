@@ -56,7 +56,7 @@
 
 ### 接码平台
 
-以 [verifywithsms](https://verifywithsms.com/) 平台为例：打开注册并点击 **RECHARGE** 充值（建议先点击左侧 **CATALOG**，找到 Google Voice 查看实时价格后再充值，因为余额不支持体现）。
+以 [verifywithsms](https://verifywithsms.com/) 平台为例：打开注册并点击 **RECHARGE** 充值（建议先点击左侧 **CATALOG**，找到 Google Voice 查看实时价格后再充值，因为余额不支持提现）。
 
 > 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)，如果你有更好的欢迎在 [Issues](https://github.com/maomiui/googlevoice/issues) 里留言，方便其他人。
 
