@@ -60,7 +60,7 @@
 
 > 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)，如果你有更好的欢迎在 [Issues](https://github.com/maomiui/googlevoice/issues) 里留言，方便其他人。
 
-> **注：本文提供的接码平台仅供参考！！！**
+> **注：本文提供的接码平台仅供参考，可能会随着时间谷歌变的越来越严，有能力还是使用美国实体卡最好！！！**
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
