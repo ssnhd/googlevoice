@@ -58,9 +58,7 @@
 
 以 [verifywithsms](https://verifywithsms.com/) 平台为例：打开注册并点击 **RECHARGE** 充值（建议先点击左侧 **CATALOG**，找到 Google Voice 查看实时价格后再充值，因为余额不支持提现）。
 
-> 其他接码平台：[PVA Deals](https://pvadeals.com/product/non-voip/)，如果你有更好的欢迎在 [Issues](https://github.com/maomiui/googlevoice/issues) 里留言，方便其他人。
-
-> **注：本文提供的接码平台仅供参考，可能会随着时间谷歌变的越来越严，有能力还是使用美国实体卡最好！！！**
+> 注：据反映此接码已经被谷歌标记，失败率较高（如果你有更好的欢迎写在 [Issues](https://github.com/maomiui/googlevoice/issues)，方便其他人，或使用美国实体卡最好！！！
 
 ![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
 
