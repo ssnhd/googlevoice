@@ -1,7 +1,5 @@
 # 注册 Google Voice 方法
-
-[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/qingmail) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/v2expro)  
----
+ 
 ### 目录
 
 1. [常见使用场景](#常见使用场景)
@@ -14,6 +12,8 @@
 8. [充值](#充值)
 9. [转移](#转移)
 10. [接码平台运营商查询服务](#接码平台运营商查询服务)
+
+[![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
 
 ---
 ### 常见使用场景
