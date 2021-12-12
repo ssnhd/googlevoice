@@ -56,39 +56,26 @@
 
 ### 接码平台
 
-以 [verifywithsms](https://verifywithsms.com/) （平台仅供参考）为例：打开注册并点击 **RECHARGE** 充值（先点击左侧 **CATALOG**，找到 Google Voice 查看实时价格后再充值，因为余额不支持提现）。
+> 本文提到的接码平台为 2020 年方法；2021 年后绝大部份接码平台已被谷歌标记，失败率高，建议使用美国实体卡或直接淘宝购买。
 
-> 注：据反映此接码平台已经被谷歌标记，失败率较高，如果你有更好的欢迎写在 [Issues](https://github.com/maomiui/googlevoice/issues)，方便其他人，或使用美国实体卡最好！！！
-
-![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhemij4vfj31vy148448.jpg)
-
-充值后点击左侧 **CATALOG**，找到 Google Voice 点击右侧**购物车**。
+以 verifywithsms 平台为例：打开注册并点击 **RECHARGE** 充值，再点击左侧 **CATALOG**，找到 Google Voice 点击右侧**购物车**。
 
 ![2021-01-09 at 14.03](https://tva1.sinaimg.cn/large/008aobiRgy1gmheq8e6dxj31vy148wk1.jpg)
 
-勾选 **I Agree**，再点击 **CONTINUE**。
-
-![](https://tvax3.sinaimg.cn/large/008aobiRgy1gmhm6y9jxuj31qi124agg.jpg)
-
-选择 Google Voice ，打开 I agree 点击 **NEXT**。
-
-![](https://i.loli.net/2021/03/02/yEiDzZfcFkQ3IXm.png)
 
 出现一个美国电话号码。
 
-> 注：[判断接码平台号码是否支持注册 GV](#接码平台运营商查询服务)。
-
 ![](https://i.loli.net/2021/03/02/N8Q9y1nJBi652DK.png)
 
-将号码填至前面的关联电话号码，点击**发送代码**。
+将号码填至 Google Voice 的关联电话号码，点击**发送代码**。
 
 ![](https://i.loli.net/2021/03/02/3lOiZAskErRJM1U.png)
 
-回到接收短信网页，点击 **NEXT** 会显示验证码。将验证码填至 Voice 验证码框，点击**验证**。
+回到接码平台点击 **NEXT** 显示验证码，再填至验证框，点击**验证**。
 
 ![](https://i.loli.net/2021/03/02/iERqxuVOdGea54o.png)
 
-注册成功后，Google Voice 号码显示在右上角。
+注册成功后，Google Voice 号码显示在右上角，如没有号码说明注册失败。
 
 ![](https://tva4.sinaimg.cn/large/008aobiRgy1gmhm3prql2j31qi124wlf.jpg)
 
@@ -96,10 +83,10 @@
 
 ### 客户端
 
-* iOS：非国区 App Store 安装。
-* Android：Google Play 安装。
+* iOS：非国区 App Store 安装
+* Android：Google Play 安装
 
-安装好登录 Voice，打开设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
+登录 Voice，打开设置 > 拨打和接听电话 > 首选 Wi-Fi 和移动数据网络。
 
 ![](https://i.loli.net/2021/03/02/TM7HSyVJK5fbnCQ.png)
 
