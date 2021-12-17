@@ -1,6 +1,7 @@
 # Google Voice 注册及使用
 
-[![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
+* V2EX 交流群：[点击这里](https://t.me/V2EXPro)
+* 机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)
 
 
 | 国内     |     注册     | |国外       | 注册 | |其他优点                                 |
@@ -13,7 +14,7 @@
 | 西瓜视频 |      ✅       | |Twitter    |  ✅   | |                                         |
 | 抖音     | 需全局美节点 |   |         |      |   |                                       |
 | 微博     | 需全局美节点 |   |         |      |   |                                       |
-| 微信/QQ  |   支持换绑   |   |         |      |   |                                       |
+| 微信/QQ  |   支持换绑   |   |         |      |   |                                       
 
 ### IP 检测
 
