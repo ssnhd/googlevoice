@@ -1,6 +1,6 @@
 # Google Voice 注册，使用与转移
 
-* V2EX 交流群：[点击这里](https://t.me/V2EXPro)
+* Telegram 交流群：[点击这里](https://t.me/V2EXPro)
 * 代理机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)
 
 
