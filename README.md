@@ -1,7 +1,9 @@
 # Google Voice 注册，使用与转移
 
-* Telegram 交流群：[点击这里](https://t.me/V2EXPro)
-* 代理机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)
+[![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
+[![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/liuhqx)
+
+**机场推荐：[https://qingmai.tk/2021/12/14/justmysocks](https://qingmai.tk/2021/12/14/justmysocks/)**
 
 
 | 国内     |     注册     | |国外       | 注册 | |其他优点                                 |
