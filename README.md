@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
 [![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/liuhqx)
 
-**机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)**
+✈️ **机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)**
 
 
 | 国内     |     注册     | |国外       | 注册 | |其他优点                                 |
@@ -58,26 +58,28 @@
 
 ---
 
-### 保号
-3 个月内没有拨打/接听电话或发短信，[Google](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim) 会收回号码。
+### 账户活跃与保号
+如果你在 3 个月内没有拨打或接听电话，或发送或打开短信，[谷歌](https://support.google.com/voice/answer/9230450?hl=en&ref_topic=9273222#:~:text=Google%20Voice%20Service.-,Account%20Inactivity,-Google%20may%20reclaim)可能会收回你的谷歌语音号码（如果你有一个）。我们不会收回已经被移植到谷歌语音或成为永久的号码。
 
-* 与其他人互相打电话 / 发短信；
-* 拨打美国客服电话，例如：Apple，Microsoft；
-* 拥有大于 1 个 Voice，互相发短信。
+下图为到期邮件提醒：
+
+![](https://i.imgur.com/kZualA4.jpg)
+
+1. 找朋友互相打电话/发短信，或者自己拥有多个号码，互相发短信。
+2. 拨打美国客服电话，例如：Apple，Microsoft。
 
 ---
 
 ### 资费
 
 * 中国：0.02 美元/分钟
-* 更多国家资费请打开 [Google Voice 通话费率](https://voice.google.com/u/0/rates?pli=1)进行查询。
+* 更多国家资费查询： [点击这里](https://voice.google.com/u/0/rates?pli=1)
 
 ---
 
 ### 充值
 
 * 打开 [Voice](https://voice.google.com/u/3/billing) 点击**话费充值**，选择金额，填写信用卡信息购买。
-
 * 使用 Wechat Out，只要将微信换绑 Google Voice 后即会出现该功能，支持微信内充值。
 
 ---
@@ -92,7 +94,7 @@
 
 点击 **Transfer**。
 
-![2](https://tvax3.sinaimg.cn/large/008eZBHKly1gpa20iay7dj31uy146jt3.jpg)
+![](https://tvax3.sinaimg.cn/large/008eZBHKly1gpa20iay7dj31uy146jt3.jpg)
 
 
 
