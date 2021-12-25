@@ -1,7 +1,7 @@
 # Google Voice 注册，使用与转移
 
 [![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
-[![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/liuhqx)
+[![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/xhqliu)
 
 ✈️ **机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)**
 
