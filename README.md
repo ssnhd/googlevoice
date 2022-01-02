@@ -105,7 +105,7 @@
 
 选择浏览器已登录账号或登陆其他账号，再点击 **Transfer**。
 
-![](https://i.imgur.com/KZHgEWI.png)
+![](https://i.imgur.com/UDYRIG2.png)
 
 
 完成转移。
@@ -116,7 +116,7 @@
 
 ### 转移邮箱是灰色无法选择
 
-![](https://i.imgur.com/bHidG2K.png)
+![](hhttps://i.imgur.com/JWYKsF3.png)
 
 解决办法：打开新标签页，登陆需要转移的谷歌账号的 Google Voice，点击**继续**，再返回上面网页刷新即可。
 
