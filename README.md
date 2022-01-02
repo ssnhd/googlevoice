@@ -3,7 +3,8 @@
 [![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
 [![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/xhqliu)
 
-✈️ **机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)**
+* 机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)
+* Google Voice 购买：[点击这里](https://t.me/nepal2013)
 
 
 | 国内     |     注册     | |国外       | 注册 | |其他优点                                 |
@@ -45,7 +46,6 @@
 使用美国实体手机卡接收验证码，注册成功后，Voice 号码显示在右上角（如没有号码说明注册失败）。
 
 > * 接码平台在 2021 年之前能用，如今 99% 均无法注册，即便能接收短信也会注册失败；另有商家提供接码服务，失败率也极高，不建议花冤枉钱。  
-> * 购买成品 Google Voice 号：[点击这里](https://t.me/gv1688)。
 
 ![](https://tva4.sinaimg.cn/large/008aobiRgy1gmhm3prql2j31qi124wlf.jpg)
 
