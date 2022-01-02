@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Twitter-推特-1E9BF1)](https://twitter.com/xhqliu)
 
 * 机场推荐：[点击这里](https://qingmai.tk/2021/12/14/justmysocks/)
-* Google Voice 购买：[点击这里](https://t.me/nepal2013)
+* Google Voice 购买：[点击这里](https://t.me/iPantherauncia)
 
 
 | 国内     |     注册     | |国外       | 注册 | |其他优点                                 |
