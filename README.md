@@ -88,34 +88,36 @@
 
 ### 转移
 
-登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角齿轮按钮，点击**转移**。
+全程使用美国路线节点，登录 [Google Voice](https://voice.google.com/u/0/messages)，点按右上角**齿轮按钮**。
 
-![](https://tvax4.sinaimg.cn/large/008eZBHKly1gpa20c1375j31vg1480uc.jpg)
+![](https://i.imgur.com/JKEP97B.png)
+点击**转移**。
+
+![](https://i.imgur.com/JZVjen2.png)
 
 
 
 点击 **Transfer**。
 
-![](https://tvax3.sinaimg.cn/large/008eZBHKly1gpa20iay7dj31uy146jt3.jpg)
+![](https://i.imgur.com/Ez0XzAc.png)
 
 
 
-点击 **Sign-in to another account** 登录其他账户。
+选择浏览器已登录账号或登陆其他账号，再点击 **Transfer**。
 
-![](https://tvax1.sinaimg.cn/large/008eZBHKly1gpa232mh2sj31uy146whk.jpg)
+![](https://i.imgur.com/KZHgEWI.png)
 
-
-
-登陆转入 Google 账户，点击 **Transfer**。
-
-![](https://tva4.sinaimg.cn/large/008eZBHKly1gpa20srh3uj31jq0jaweu.jpg)
-
-
-
-选择 Google 邮箱并点击 **Transfer**。
-
-![](https://tvax2.sinaimg.cn/large/008eZBHKly1gpa20ximnkj31tk168tbl.jpg)
 
 完成转移。
 
 ![](https://tva1.sinaimg.cn/large/008eZBHKly1gpa2120zx9j30yy0est9b.jpg)
+
+---
+
+### 转移邮箱是灰色无法选择
+
+![](https://i.imgur.com/bHidG2K.png)
+
+解决办法：打开新标签页，登陆需要转移的谷歌账号的 Google Voice，点击**继续**，再返回上面网页刷新即可。
+
+![](https://i.imgur.com/AApKuOC.png)
