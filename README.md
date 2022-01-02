@@ -116,7 +116,7 @@
 
 ### 转移邮箱是灰色无法选择
 
-![](hhttps://i.imgur.com/JWYKsF3.png)
+![](https://i.imgur.com/UvMh9hf.png)
 
 解决办法：打开新标签页，登陆需要转移的谷歌账号的 Google Voice，点击**继续**，再返回上面网页刷新即可。
 
