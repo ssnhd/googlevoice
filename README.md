@@ -1,4 +1,4 @@
-# Google Voice 注册，使用与转移
+# Google Voice 注册方法和转移
 
 [![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
 
