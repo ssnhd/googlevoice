@@ -15,7 +15,7 @@
 
 ### IP 检测
 
-节点路线为美国全局模式，浏览器无痕模式，打开  [WHOER](https://whoer.net)  检测路线伪装程度。
+美国节点（全局模式），浏览器无痕模式打开  [WHOER](https://whoer.net)  检测路线伪装。
 
 ![](https://i.imgur.com/cvJ5I32.jpg)
 
