@@ -2,8 +2,7 @@
 
 [![](https://img.shields.io/badge/Telegram-电报群-27A1D8)](https://t.me/V2EXPro)
 
-✈️ **机场：[点击这里](https://qingmai.ml/2021/12/14/justmysocks/)**\
-☎️ **购买 Google Voice：[点击这里](https://t.me/iPantherauncia)**
+购买 Google Voice：[点击这里](https://t.me/iPantherauncia)
 
 ---
 ### 常见注册
