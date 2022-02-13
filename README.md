@@ -1,6 +1,6 @@
 # Google Voice 注册方法和转移
 
-### 购买 Google Voice：[点击这里](https://t.me/gv188)，https://ssnhd.com/2022/01/27/voice
+### 购买 Google Voice [点击这里](https://t.me/gv188)
 
 Google Voice 是由 Google 推出的免费电话号码（可以付费买断），并提供许多加值服务。
 
@@ -98,3 +98,5 @@ Google Voice 是由 Google 推出的免费电话号码（可以付费买断）�
 打开新标签页，登陆需要转移的谷歌账号的 Google Voice，点击**继续**，再返回上面网页刷新即可。
 
 ![](https://i.imgur.com/AApKuOC.png)
+
+https://ssnhd.com/2022/01/27/voice
