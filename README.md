@@ -1,4 +1,4 @@
-### Google Voice 注册方法和转移
+# Google Voice 注册方法和转移
 
 ### 购买 Google Voice：[点击这里](https://t.me/gv188)，https://ssnhd.com/2022/01/27/voice
 
