@@ -22,10 +22,6 @@ Google Voice 是由 Google 推出的免费电话号码（可以付费买断）�
 
 > 注：Voice 不支持注册微信，只能换绑，换绑后微信会转为 WeChat，资料保存在海外，朋友圈没有广告，如使用微信人脸识别功能建议换绑前先开通。
 
-## 购买 Voice
-
-[![](/img/Voice/01.png)](https://t.me/gv188)
-
 ## 注册
 
 设置美国节点（全局模式），浏览器无痕模式打开 [WHOER](https://whoer.net) 检测路线伪装程度。打开 [Google Voice](https://voice.google.com/) 并登录，挑选号码。
