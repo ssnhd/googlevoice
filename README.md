@@ -1,6 +1,6 @@
 # 出售 Google Voice 注册方法和转移
 
-## 广告：[购买 Google Voice 点击这里](https://t.me/gv188)
+## [购买 Google Voice 点击这里](https://ssnhd.com/2022/01/27/voice/)
 
 Google Voice 是由 Google 推出的免费电话号码（可以付费买断），并提供许多加值服务。
 
@@ -95,5 +95,3 @@ Google Voice 是由 Google 推出的免费电话号码（可以付费买断）�
 跳转至网页点击**接受**，完成转移。
 
 ![](https://i.imgur.com/naiWfji.png)
-
-## 广告：[购买 Google Voice 点击这里](https://t.me/gv188)
