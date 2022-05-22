@@ -1,4 +1,4 @@
-# Google Voice 注册方法和转移
+# 出售 Google Voice 注册方法和转移
 
 ## 广告：[购买 Google Voice 点击这里](https://t.me/gv188)
 
