@@ -1,12 +1,15 @@
 # 出售 Google Voice 注册方法和转移
 
-## [👏 购买 Google Voice 点击这里 👏](https://ssnhd.com/2022/01/27/voice/)
 
 Google Voice 是由 Google 推出的免费电话号码。0 月租、虚拟号码不占用卡槽、免费拨打美国加拿大电话，免费接收短信等。
 
 常见注册或绑定平台，平台政策可能会发生改变，请自行测试。
 - 微信/QQ（换绑）、爱奇艺、B 站、京东、今日头条/西瓜视频/抖音、优酷、微博
 - Telegram、Amazon、Clubhouse、Facebook、PayPal、Twitter
+
+
+## [👏 购买 Google Voice 点击这里 👏](https://ssnhd.com/2022/01/27/voice/)
+[![](https://i.imgur.com/WUQcBlv.png)](https://ssnhd.com/2022/01/27/voice/)
 
 ## 注册
 
