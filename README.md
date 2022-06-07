@@ -9,7 +9,7 @@ Google Voice 是由 Google 推出的免费电话号码。0 月租、虚拟号码
 
 
 ## [👏 购买 Google Voice 点击这里 👏](https://ssnhd.com/2022/01/27/voice/)
-[![](https://i.imgur.com/WUQcBlv.png)](https://ssnhd.com/2022/01/27/voice/)
+[![](https://i.imgur.com/RELjhoN.png)](https://ssnhd.com/2022/01/27/voice/)
 
 ## 注册
 
