@@ -10,7 +10,6 @@ Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租、免费拨
 
 - Telegram 私聊：[@hedong](https://t.me/hedong) 
 - Telegram 群组：[V2EX 交流群](https://t.me/V2EXPro)
-- QQ：[254136957](http://wpa.qq.com/msgrd?v=3&uin=254136957&site=qq&menu=yes>)（敏感词存在封号机率，推荐 Telegram 联系）
 
 ![](https://i.imgur.com/eXaKhtv.png)
 
