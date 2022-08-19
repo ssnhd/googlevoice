@@ -5,14 +5,11 @@ Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租、免费拨
 
 
 ## 购买 Google Voice
-
-全网最优质 GV，欢迎选购！先联系再返回这里支付，同时也出售谷歌 Gmail 账号。
-
-- Telegram 私聊：[GV188](https://t.me/GV188) 
-- Telegram 群组：[V2EX](https://t.me/V2EXPro)
-- E-mail：<ahezuo@gmail.com>
-
-![](https://i.imgur.com/eXaKhtv.png)
+全网最优质 GV，同时出售谷歌 Gmail 账号，欢迎选购！\
+Telegram 私聊：[GV188](https://t.me/GV188)\
+Telegram 群组：[V2EX](https://t.me/V2EXPro)\
+E-mail：<ahezuo@gmail.com>
+![](https://i.imgur.com/UyZKAr1.png)
 
 
 ## 修改语言（可选）
