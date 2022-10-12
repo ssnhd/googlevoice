@@ -38,10 +38,10 @@ E-mail：<ahezuo@gmail.com>（如果电报无法私聊，请发邮件）
 
 ## 手机使用 ★★★
 
-- 苹果手机在美区 App Store 安装 [Voice](https://apps.apple.com/us/app/google-voice/id318698524)
-- 安卓手机在 Google Play 安装 [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US)
+- 苹果手机美区 App Store 安装 [Voice](https://apps.apple.com/us/app/google-voice/id318698524)
+- 安卓手机美区 Google Play 安装 [Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US)
 
-手机登录 Voice 点击**设置** → **拨打和接听电话** → 勾选**首选 Wi-Fi 和移动数据网络**`（此处很重要，一定要勾选）`，此时即可使用，例如编辑任意短信发至 `+1414***5566` 进行保号。
+手机登录 Voice 点击**设置** → **拨打和接听电话** → 勾选**首选 Wi-Fi 和移动数据网络**
 
 ![](https://i.imgur.com/TCY50ff.jpg)
 
@@ -134,29 +134,3 @@ E-mail：<ahezuo@gmail.com>（如果电报无法私聊，请发邮件）
 
 ![](https://i.imgur.com/naiWfji.png)
 
-## 打电话自动挂断
-
-Voice 拨打电话如果出现自动挂断，主要原因是代理节点问题（要求很高），建议打开 UDP 转发。
-
-## 注册 Telegram
-
-1. 开启代理节点
-2. 打开 Telegram 输入 GV 号，短信验证
-3. 输入 Voice 收到的验证码，填写昵称完成注册
-
->注：如果仍不会注册，本站提供代注册服务，收费 19.9 元。
-
-![](https://i.imgur.com/BD8xyG3.jpg)
-
-## 注册 WhatsApp
-
-使用 GV 注册 WhatsApp 易被封号，这不是号码问题，而是 WhatsApp 平台对虚拟号码的风控。解封方法：将情况发邮件到 <support@whatsapp.com>，并附带上 GV 号（区号+1）。
-
-一般 1-2 个工作日处理好，解封后会收到一封邮件（下图），重新注册即可。
-
-![](https://i.imgur.com/zTsu795.png)
-
-## 免责声明
-
-- 本站只是介绍 Google Voice，请勿进行违法违规操作；
-- 本站不承担关于 Google Voice 用户使用的任何责任。
