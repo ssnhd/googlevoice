@@ -77,54 +77,41 @@ E-mail：<ahezuo@gmail.com>（如果电报无法私聊，请发邮件）
 
 ![](https://i.imgur.com/facZ0Wb.jpg)
 
-
 ## 转移
+Google Voice 支持转移到其他谷歌帐号，条件如下：
+1. 美国原生 IP
+2. 同设备登录时长超 15 天
 
-可以将 GV 转移到其他谷歌帐号下，转移条件：
-
-- 【转出】含 GV 谷歌帐号
-- 【转入】不含 GV 谷歌帐号
-- 【网络】美国代理原生 IP
-
-`注：以下操作用美国代理全局模式。`
-
-1、登录转入 [Google Voice](https://voice.google.com/u/0/messages)，点击**继续**，同意谷歌服务条款；出现选号界面表示成功。
-
-> 注1：如提示`无法创建 Google Voice 帐号`，说明 IP 有问题，更换美国节点。\
-> 注2：此处也是注册 GV 的入口，用美国实体 SIM 卡接收短信验证完成注册。（注册不易成功，建议直接买成品号码）。
+先激活转入 Google 账号：打开 [Google Voice](https://voice.google.com/u/0/messages) 并登陆，同意服务条款，出现选号界面即可。
 
 ![](https://i.imgur.com/b7Iiwn2.png)
 
-2、打开新标签页，登录转出 [Google Voice](https://voice.google.com/u/0/messages) 帐号，点按右上角**齿轮按钮**。
+1、登录转出 [Google Voice](https://voice.google.com/u/0/messages) 帐号，点按右上角**齿轮按钮**。
 
 
 ![](https://i.imgur.com/FpZ4KxH.png)
-3、点击**转移号码**。
+2、点击**转移号码**。
 
 ![](https://i.imgur.com/OASFgdA.png)
 
-4、填写转入的谷歌邮箱，点击**发送转移请求**。
+3、填写转入的谷歌邮箱，点击**发送转移请求**。
 
 
 ![](https://i.imgur.com/dnPKT2H.png)
 
->如果提示`您的请求无效，请查看转移要求，然后重试`，有几种可能：
->1. 美国代理 IP 问题
->2. 使用时间较短，建议超过 15 天
 
-5、显示正在等待确认，点击**知道了**。
+4、显示正在等待确认，点击**知道了**。
 
 ![](https://i.imgur.com/YbWLJgg.png)
 
-6、打开转入的谷歌收件箱，点击 **View the request** 查看请求。
-
-![](https://i.imgur.com/4H0A9lC.png)
-
-7、跳转到转入谷歌帐号的 Google Voice 页面，点击左下角**查看**。
+5、回到转入 Google Voice 页面，点击左下角**查看**。
 
 ![](https://i.imgur.com/Yl00SOG.png)
 
-8、点击**接受**，完成转移。
+6、点击**接受**，完成转移。
 
 ![](https://i.imgur.com/naiWfji.png)
 
+**转移失败原因**
+- 代理不是美国原生 IP
+- 使用时长太短（勿频繁更换 IP 和设备）
