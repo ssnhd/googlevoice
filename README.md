@@ -4,10 +4,7 @@ Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租、免费拨
 +86 号码注册 Telegram 存在无隐私、私聊限制、加群失败等问题，建议用 GV 注册电报，还可以注册 B 站、Clubhouse、Twitter……
 
 ## 购买 Google Voice
-如果你无法[注册 GV](https://ssnhd.com/2022/07/16/googlevoice/)，欢迎选购全网最优质 GV、Gmail、各区 Apple ID
-- Telegram 频道：[Google Voice 商店](https://t.me/GVStore)
-- Telegram 群组：[V2EX](https://t.me/V2EXO)
-- E-mail：<ahezuo@gmail.com>（如果电报无法私聊，请发邮件）
+商店：<https://ssnhd.com/2023/03/19/store>
 
 
 ## 修改语言（可选）
