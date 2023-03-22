@@ -3,6 +3,8 @@
 Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租、免费拨打美加电话，免费接收短信。\
 +86 号码注册 Telegram 存在无隐私、私聊限制、加群失败等问题，建议用 GV 注册电报，还可以注册 B 站、Clubhouse、Twitter……
 
+欢迎关注 [Twitter](https://twitter.com/muzhilau)
+
 ## 购买 Google Voice
 商店：<https://ssnhd.com/2023/03/19/store>
 
