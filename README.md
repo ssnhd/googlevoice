@@ -12,6 +12,11 @@ Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租，可以注
 8. [Google Voice 如何换绑微信](https://github.com/ssnhd/googlevoicewechat)
 
 ## 购买 Google Voice
-官方商店：[点击这里](https://ssnhd.com/2023/03/19/store)
+避免上当受骗，请认准以下官方商店 ID。
 
+- TG 商店：[@GVStore](https://t.me/gvstore)（打开点击 `Preview channel` 可网页预览）
+- TG 客服：[@GV188](https://t.me/GV188) （北美Tim）
+- Email：<ahezuo@gmail.com> （TG 无法私聊时请用邮件）
+- 程序员电报群：[@V2EXPro](https://t.me/V2EXPro)
 
+![](https://i.imgur.com/9ysVXCr.png)
