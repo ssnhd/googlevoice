@@ -17,7 +17,7 @@ Google Voice（简称 GV）是谷歌推出的虚拟号码，0 月租，可以注
 
 ---
 
-## 购买 Google Voice
+## 购买 Google Voice、美国实体卡、Apple ID、礼品卡
 **认准以下官方商店 ID**
 
 - TG 商店：[@GVStore](https://t.me/gvstore)（打开点击 `Preview channel` 可网页预览）
