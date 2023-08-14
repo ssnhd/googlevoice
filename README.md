@@ -1,6 +1,6 @@
 # Google Voice 注册方法、转移教程和常见疑问
 
-Google Voice（简称 GV）是美国 Google 推出的虚拟电话号码。\
+Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 GV 号码示例：‪(123) 456-7890‬，其中 `123` 是美国州区号；美国国家区号是前面 `+1`。
 
 1. [登录](https://github.com/ssnhd/googlevoicelogin)
