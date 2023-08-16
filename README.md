@@ -7,12 +7,13 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。示例：‪
 3. [修改密码，辅助邮箱](https://github.com/ssnhd/googlevoicepassword)
 4. [保号](https://github.com/ssnhd/googlevoicebaohao)
 5. [资费](https://github.com/ssnhd/googlevoicezifei)
-6. [转移](https://github.com/ssnhd/googlevoicezhuanyi)
-7. [接受](https://github.com/ssnhd/googlevoicejieshou)
-8. [解锁](https://github.com/ssnhd/googlevoicejiesuo)
-9. [提示“尚不支持您所在的国家/地区”](https://github.com/ssnhd/googlevoicebuzhichi)
-10. [注册 Telegram](https://github.com/ssnhd/telegram)
-11. [换绑微信](https://github.com/ssnhd/googlevoicewechat)
+6. [拨打电话提示“关联号码”](https://github.com/ssnhd/googlevoiceguanlian)
+7. [转移](https://github.com/ssnhd/googlevoicezhuanyi)
+8. [接受](https://github.com/ssnhd/googlevoicejieshou)
+9. [解锁](https://github.com/ssnhd/googlevoicejiesuo)
+10. [提示“尚不支持您所在的国家/地区”](https://github.com/ssnhd/googlevoicebuzhichi)
+11. [注册 Telegram](https://github.com/ssnhd/telegram)
+12. [换绑微信](https://github.com/ssnhd/googlevoicewechat)
 
 ---
 
