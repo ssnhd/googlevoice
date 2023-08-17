@@ -13,8 +13,9 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。示例：‪
 9. [解锁是什么意思](https://github.com/ssnhd/googlevoice/wiki/解锁是什么意思)
 10. [提示“尚不支持您所在的国家/地区”](https://github.com/ssnhd/googlevoice/wiki/提示“尚不支持您所在的国家-地区”)
 11. [发短信到中国手机号](https://github.com/ssnhd/googlevoice/wiki/发短信到中国手机号)
-12. [注册 Telegram](https://github.com/ssnhd/googlevoice/wiki/注册-Telegram)
-13. [换绑微信](https://github.com/ssnhd/googlevoice/wiki/换绑微信)
+12. [拨打电话自动挂断](https://github.com/ssnhd/googlevoice/wiki/拨打电话自动挂断)
+13. [注册 Telegram](https://github.com/ssnhd/googlevoice/wiki/注册-Telegram)
+14. [换绑微信](https://github.com/ssnhd/googlevoice/wiki/换绑微信)
 
 ---
 
