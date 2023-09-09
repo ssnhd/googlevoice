@@ -15,7 +15,7 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 
 ## **🔻请务必看完教程，有疑问在这里找答案，否则联系客服也不一定回复🔻**
 
-1. [登录](https://github.com/ssnhd/googlevoice/wiki/登录)
+1. [登录（手机和网页）](https://github.com/ssnhd/googlevoice/wiki/登录)
 2. [账号验证身份、停用、被封](https://github.com/ssnhd/googlevoice/wiki/账号异常)
 3. [修改密码，辅助邮箱](https://github.com/ssnhd/googlevoice/wiki/修改密码和辅助邮箱)
 4. [保号](https://github.com/ssnhd/googlevoice/wiki/保号)
