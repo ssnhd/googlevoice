@@ -35,7 +35,7 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 ## 出售 GV｜美国实体 SIM 卡｜ChatGPT｜Apple ID｜TG｜苹果礼品卡
 
 - TG 商店：[@GVStore](https://t.me/gvstore)（打开点击 `Preview channel` 可网页预览）
-- TG 客服：[@GV188](https://t.me/GV188) （北美Tim）
+- TG 客服：[@GV188](https://t.me/GV188) 北美TIME
 - Email：<ahezuo@gmail.com> 
 - 程序员电报群：[@V2EXPro](https://t.me/V2EXPro)
 
