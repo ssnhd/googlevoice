@@ -30,7 +30,12 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 13. [注册 Telegram](https://github.com/ssnhd/googlevoice/wiki/注册-Telegram)
 14. [换绑微信](https://github.com/ssnhd/googlevoice/wiki/换绑微信)
 
+## 声明
+
+教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
+
 ---
+
 
 ## 出售 GV｜美国实体 SIM 卡｜ChatGPT｜Apple ID｜TG｜苹果礼品卡
 
