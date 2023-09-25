@@ -5,8 +5,6 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 
 ## 重要！重要！重要！
 
-**🔺🔻如果代理不纯净，请购买代注册、靓号或永久号，直接转移到你的谷歌里，最安全最保险🔺🔻**
-
 虚拟产品只保证首次登录成功即代表账号正常，谷歌对新账户风控严格，登录前阅读以下几点。
 
 1. 新谷歌号：优先用美国 IP 登录（越纯净越好，例如同一 IP 使用的人不多）
@@ -37,7 +35,7 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 ---
 
 
-## 出售 GV｜美国实体 SIM 卡｜ChatGPT｜Apple ID｜TG｜苹果礼品卡
+## GV｜美国实体 SIM 卡｜ChatGPT｜Apple ID｜TG｜苹果礼品卡
 
 - TG 商店：[@GVStore](https://t.me/gvstore)（打开点击 `Preview channel` 可网页预览）
 - TG 客服：[@GV188](https://t.me/GV188) 北美TIME
