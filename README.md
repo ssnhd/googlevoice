@@ -11,7 +11,7 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 2. 新谷歌号：登录后不要频繁操作，过几小时修改密码，隔天修改辅助邮箱（例如不要发信息，先养号几天）
 3. 新谷歌号：前几天不要登陆多设备
 
-## **🔻请务必看完教程🔻**
+## 教程（务必看完）
 
 1. [登录（手机 App 和网页）](https://github.com/ssnhd/googlevoice/wiki/登录)
 2. [账号验证身份、停用、被封](https://github.com/ssnhd/googlevoice/wiki/账号异常)
