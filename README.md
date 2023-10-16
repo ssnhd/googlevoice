@@ -20,13 +20,12 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 5. [资费](https://github.com/ssnhd/googlevoice/wiki/资费)
 6. [拨打电话提示“关联号码”](https://github.com/ssnhd/googlevoice/wiki/拨打电话提示“关联号码”)
 7. [转移](https://github.com/ssnhd/googlevoice/wiki/转移)
-8. [接受](https://github.com/ssnhd/googlevoice/wiki/接受)
-9. [解锁是什么意思](https://github.com/ssnhd/googlevoice/wiki/解锁是什么意思)
-10. [提示“尚不支持您所在的国家/地区”](https://github.com/ssnhd/googlevoice/wiki/提示“尚不支持您所在的国家-地区”)
-11. [发短信到中国手机号](https://github.com/ssnhd/googlevoice/wiki/发短信到中国手机号)
-12. [拨打电话自动挂断](https://github.com/ssnhd/googlevoice/wiki/拨打电话自动挂断)
-13. [注册 Telegram](https://github.com/ssnhd/googlevoice/wiki/注册-Telegram)
-14. [换绑微信](https://github.com/ssnhd/googlevoice/wiki/换绑微信)
+8. [解锁是什么意思](https://github.com/ssnhd/googlevoice/wiki/解锁是什么意思)
+9. [提示“尚不支持您所在的国家/地区”](https://github.com/ssnhd/googlevoice/wiki/提示“尚不支持您所在的国家-地区”)
+10. [发短信到中国手机号](https://github.com/ssnhd/googlevoice/wiki/发短信到中国手机号)
+11. [拨打电话自动挂断](https://github.com/ssnhd/googlevoice/wiki/拨打电话自动挂断)
+12. [注册 Telegram](https://github.com/ssnhd/googlevoice/wiki/注册-Telegram)
+13. [换绑微信](https://github.com/ssnhd/googlevoice/wiki/换绑微信)
 
 ## 声明
 
