@@ -1,8 +1,5 @@
 # Google Voice 中文注册、转移和使用方法
 
-Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
-示例：‪+1(123) 456-7890‬，其中 `+1` 是美国区号，`123` 是州区号。
-
 ## 随机号注意事项（代注册、靓号、永久号除外）
 
 虚拟产品只保证首次登录成功即代表账号正常，谷歌对新账户风控严格，登录前阅读以下几点。
@@ -32,7 +29,9 @@ Google Voice（简称 GV）是 Google 推出的虚拟电话号码。\
 教程均针对旅游使用，请遵守当地法律法规，违规与本帖无关。
 
 
-## GV｜🇺🇸美国 🇬🇧英国 🇳🇿新西兰实体 SIM 卡｜ChatGPT｜TG｜Apple ID 礼品卡
+## 商店
+
+GV｜🇺🇸美国 🇬🇧英国 🇳🇿新西兰实体 SIM 卡｜ChatGPT｜TG｜Apple ID 礼品卡
 
 - TG 商店：[@GVStore](https://t.me/gvstore)（打开点击 `Preview channel` 可网页预览）
 - TG 客服：[@GV188](https://t.me/GV188) 北美Tim
