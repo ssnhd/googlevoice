@@ -1,4 +1,4 @@
-# Google Voice 中文注册、转移和使用方法
+# Google Voice 中文注册、登录、转移和使用方法
 
 ## 注意事项
 
@@ -9,14 +9,14 @@
 
 ## 教程（务必认真看）
 
-1. [登录（手机 App 和网页）](https://github.com/ssnhd/googlevoice/wiki/登录)
+1. [登录（手机和网页）](https://github.com/ssnhd/googlevoice/wiki/登录)
 2. [账号验证身份、停用、被封](https://github.com/ssnhd/googlevoice/wiki/账号异常)
 3. [修改密码，辅助邮箱](https://github.com/ssnhd/googlevoice/wiki/修改密码和辅助邮箱)
 4. [保号](https://github.com/ssnhd/googlevoice/wiki/保号)
 5. [资费](https://github.com/ssnhd/googlevoice/wiki/资费)
 6. [拨打电话提示“关联号码”](https://github.com/ssnhd/googlevoice/wiki/拨打电话提示“关联号码”)
 7. [转移](https://github.com/ssnhd/googlevoice/wiki/转移)
-8. [解锁是什么意思](https://github.com/ssnhd/googlevoice/wiki/解锁是什么意思)
+8. [“解锁”是什么意思？](https://github.com/ssnhd/googlevoice/wiki/解锁是什么意思)
 9. [提示“尚不支持您所在的国家/地区”](https://github.com/ssnhd/googlevoice/wiki/提示“尚不支持您所在的国家-地区”)
 10. [发短信到中国手机号](https://github.com/ssnhd/googlevoice/wiki/发短信到中国手机号)
 11. [拨打电话自动挂断](https://github.com/ssnhd/googlevoice/wiki/拨打电话自动挂断)
