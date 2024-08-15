@@ -70,10 +70,12 @@ App 进入【设置】>【拨打和接听电话】> 勾选【首选 Wi-Fi 和移
 
 ## 修改密码，辅助邮箱
 
-- **修改语言：**[点击这里](https://myaccount.google.com/language?gar=1)
-- **修改密码：**[点击这里](https://myaccount.google.com/signinoptions/password)
-- **修改辅助邮箱：**[点击这里](https://myaccount.google.com/recovery/email)（清空输入框，输入自己邮箱验证）
-- **绑定手机号：**[点击这里](https://myaccount.google.com/signinoptions/rescuephone)
+- 修改语言：<https://myaccount.google.com/language?gar=1>
+- 修改密码：<https://myaccount.google.com/signinoptions/password>
+- 修改辅助邮箱：<https://myaccount.google.com/recovery/email>（清空输入框，输入自己的邮箱验证）
+- 绑定手机号：<https://myaccount.google.com/signinoptions/rescuephone>
+
+以上是网页端，也可以使用 app 里修改：打开 app 点击谷歌头像 → 管理您的 Google 账号 → 安全性。
 
 ## 转移
 
