@@ -16,10 +16,12 @@
 | **月租** | 免费 | 
 | **收短信** | 免费 |  
 | **接电话** | 免费|   
-| **发短信** | 免费发至美国、加拿大号码（其他国家不支持） |  
-| **打电话** | 免费拨打美国、加拿大号码（[其他国家收费标准](https://voice.google.com/u/0/rates?pli=1)）|
+| **发短信** | 免费发至美国、加拿大号码|  
+| **打电话** | 免费拨打美国、加拿大号码|
 
-## 电脑网页登录
+【注】GV 不支持发短信给除美国/加拿大以外的国家；拨打其他国家电话收费标准[点击这里查看](https://voice.google.com/u/0/rates?pli=1)）
+
+## 网页登录
 
 1. 打开 [Google Voice](https://voice.google.com/) 官网点击右上角 **Sign in** 输入账号和密码
 2. 如果提示验证身份，选择第三个**确认您的辅助邮箱**，输入辅助邮箱（下图）
@@ -28,10 +30,10 @@
 
 注：若 IP 风险较高需要验证电话号码，选择国家，输入手机号验证即可（验证不会有任何影响，不是绑定），如提示号码已被使用过多次，更换号码直到验证完成。
 
-## 手机登录
+## App 登录
 
-苹果：美区 App Store 安装 [Google Voice](https://apps.apple.com/us/app/google-voice/id318698524)，如果没有美区 Apple ID [点击购买](https://ssnhd.github.io/2023/03/19/store/)。\
-安卓：打开谷歌框架，美区 Google Play 安装 [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 或下载 [apk ](https://apkpure.com/search?q=Google+Voice)安装。
+苹果：美区 App Store 安装 [Google Voice](https://apps.apple.com/us/app/google-voice/id318698524)，如没美区 Apple ID [点击购买](https://t.me/GVStore)。\
+安卓：美区 Google Play 安装 [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 或下载 [apk ](https://apkpure.com/search?q=Google+Voice)安装。
 
 1. 打开 Voice App 登录谷歌账号
 2. 如果提示验证身份，选择第三个**确认您的辅助邮箱**，输入辅助邮箱
@@ -50,24 +52,21 @@
 - 修改辅助邮箱：<https://myaccount.google.com/recovery/email>（清空输入框，输入自己的邮箱验证）
 - 绑定手机号：<https://myaccount.google.com/signinoptions/rescuephone>
 
-## 拨打电话
-- 网页端：登录 Google Voice 官网，页面右侧有拨号界面。
-- 手机端：登录 Voice 软件，需要先**设置** > **拨打和接听电话** > 勾选**首选 Wi-Fi 和移动数据网络**，这样再拨打电话。
+# App 提示“关联号码”
+**设置** > **拨打和接听电话** > 勾选**首选 Wi-Fi 和移动数据网络**
 
-【注】如出现拨打电话自动挂断，说明你的代理网络不支持，建议更换为支持 UDP 转发的网络。
+## 电话
+- 网页：右侧拨号界面。
+- 手机：App 左下角第一个按钮通话。
 
-## 发送短信
-- 网页端：登录后在页面左侧有短信界面。
-- 手机端：登录后底部第三个按钮，即短信。
+【注】拨打电话如出现自动挂断，说明网络不支持，需支持 UDP 转发。
 
-## 提示“关联号码”
-App 进入【设置】>【拨打和接听电话】> 勾选【首选 Wi-Fi 和移动数据网络】
+## 短信
+- 网页：左侧短信界面。
+- 手机：底部第三个按钮消息。
 
 ## 解锁是什么意思
-号码下“解锁”是携号转网的意思（类似国内移动转联通），解锁需要向 Google 支付 3 美元，如果无此需求请忽略。
-
-## 充值
-网页打开 [GV](https://voice.google.com/u/3/billing) 点击【话费充值】-【选择金额】-【填写信用卡（如 VISA）】-【购买】。
+号码下“解锁”是携号转网的意思（类似移动转联通），如无此需求请忽略。
 
 ## 转移
 转移指的是将 GV 号码转移到其他谷歌账号里。
