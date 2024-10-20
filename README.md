@@ -41,7 +41,8 @@
 [谷歌](https://support.google.com/voice/answer/9230450) 规定每 3 个月内打个电话或发个短信，否则号码将被收回。可以通过以下任意方式保号：
  1. 免费发短信到美国号码（如果没美国号码，联系[客服](https://t.me/GVStore)提供号码永久免费接收短信，仅需 10 元）
  2. 免费打电话到美国号码
- 3. 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
+ 3. 购买多个 GV，互相联系保号
+ 4. 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
 
 ## 修改密码，辅助邮箱
 - 修改语言：<https://myaccount.google.com/language?gar=1>
