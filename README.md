@@ -4,10 +4,11 @@
 
 ## 注意事项
 
-1. 优先用美国 IP 登录、IP 越干净越好、前期不要频繁切换 IP
+1. 建议美国 IP 登录、IP 越干净越好
 2. 前期不要登陆多设备，且登录后不要频繁操作
-3. 登录后前 7 天不要发短信，之后发短信用英文内容
-4. 【注】如果提示停用/封禁，点击网页上**联系我们**，向谷歌申诉。一般停用谷歌会解除，封禁无解。
+3. 登录后前 7 天不要发短信
+
+【注】如果提示停用/封禁，点击网页上**联系我们**，向谷歌申诉。一般停用谷歌会解除，封禁无解。
 
 ## 资费
 
@@ -19,41 +20,25 @@
 | **发短信** | 免费发至美国、加拿大号码|  
 | **打电话** | 免费拨打美国、加拿大号码|
 
-【注】GV 不支持发短信给除美国/加拿大以外的国家；拨打其他国家电话收费标准[点击这里查看](https://voice.google.com/u/0/rates?pli=1)。
+【注】GV 不支持发短信给除美国/加拿大以外的国家；查看拨打其他国家电话[收费标准](https://voice.google.com/u/0/rates?pli=1)。
 
-## 网页登录
+## 网页端登录
 
-1. 打开 [Google Voice](https://voice.google.com/) 官网点击右上角 **Sign in** 输入账号和密码
-2. 如果提示验证身份，选择第三个**确认您的辅助邮箱**，输入辅助邮箱（下图）
-3. 登录后即可使用
+1. 打开 [Google Voice](https://voice.google.com/) 官网点击右上角 **Sign in**，输入账号和密码
+2. 如果提示验证，选择第三个【确认您的辅助邮箱】（下图）
 ![](https://i.imgur.com/ZSuOzOH.png)
 
-注：若 IP 风险较高需要验证电话号码，选择国家，输入手机号验证即可（验证不会有任何影响，不是绑定），如提示号码已被使用过多次，更换号码直到验证完成。
+注：若 IP 异常谷歌会显示验证手机号，选择中国或其他国家，输入号码验证即可。
 
 ## App 登录
 
-苹果：美区 App Store 安装 [Google Voice](https://apps.apple.com/us/app/google-voice/id318698524)，如没美区 Apple ID [点击购买](https://t.me/GVStore)。\
-安卓：美区 Google Play 安装 [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 或下载 [apk ](https://apkpure.com/search?q=Google+Voice)安装。
+苹果：美区 App Store 安装 [Google Voice](https://apps.apple.com/us/app/google-voice/id318698524)（若没美区 Apple ID [点击购买](https://t.me/GVStore)）\
+安卓：美区 Google Play 安装 [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 或下载 [apk ](https://apkpure.com/search?q=Google+Voice)安装
 
-1. 打开 Voice App 登录谷歌账号
-2. 如果提示验证身份，选择第三个**确认您的辅助邮箱**，输入辅助邮箱
-3. 如果提示“选择目前的电话号码”，点击右下角 **skip**
+1. 打开 Voice App 登录账号（方法同上面网页端）
+2. 若提示“选择目前的电话号码”，点击右下角 **skip**
 
-## 保号
-[谷歌](https://support.google.com/voice/answer/9230450) 规定每 3 个月内打个电话或发个短信，否则号码将被收回。可以通过以下任意方式保号：
- 1. 免费发短信到美国号码（如果没美国号码，联系[客服](https://t.me/GVStore)提供号码永久免费接收短信，仅需 10 元）
- 2. 免费打电话到美国号码
- 3. 购买多个 GV，互相联系保号
- 4. 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
-
-## 修改密码，辅助邮箱
-- 修改语言：<https://myaccount.google.com/language?gar=1>
-- 修改密码：<https://myaccount.google.com/signinoptions/password>
-- 修改辅助邮箱：<https://myaccount.google.com/recovery/email>（清空输入框，输入自己的邮箱验证）
-- 绑定手机号：<https://myaccount.google.com/signinoptions/rescuephone>
-
-# App 提示“关联号码”
-**设置** > **拨打和接听电话** > 勾选**首选 Wi-Fi 和移动数据网络**
+【注】登录后打开设置 > 拨打和接听电话 > 勾选【首选 Wi-Fi 和移动数据网络】
 
 ## 电话
 - 网页：右侧拨号界面。
@@ -65,29 +50,39 @@
 - 网页：左侧短信界面。
 - 手机：底部第三个按钮消息。
 
+## 保号
+每 3 个月内打个电话或发条短信，否则将被收回。通过以下任意方式保号：
+ - 免费发短信到美国手机号（可以联系[客服](https://t.me/GVStore)永久免费接收你的短信，仅需 10 元）
+ - 免费拨打美国号码
+ - 购买多个 GV，互相联系
+ - 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
+
+## 更改密码，辅助邮箱
+- 更改语言：<https://myaccount.google.com/language?gar=1>
+- 更改密码：<https://myaccount.google.com/signinoptions/password>
+- 更改辅助邮箱：<https://myaccount.google.com/recovery/email>（清空输入框，输入自己的邮箱验证）
+- 绑定手机号：<https://myaccount.google.com/signinoptions/rescuephone>
+
 ## 解锁是什么意思
-号码下“解锁”是携号转网的意思（类似移动转联通），如无此需求请忽略。
+号码下“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
 
 ## 充值
-点击【话费充值】-【选择金额】-【填写信用卡（如 VISA）】-【购买】。
-
-Google Voice 官网充值入口：https://voice.google.com/u/0/billing
+打开 https://voice.google.com/u/0/billing 点击【话费充值】-【选择金额】-【填写信用卡（如 VISA）】-【购买】。
 
 ## 转移
-转移指的是将 GV 号码转移到其他谷歌账号里。
+转移指的是将 GV 号码转入到其他谷歌账号里。
 
-| “转出”账号要求 | “转入”账号要求 |  
+| “转出”要求 | “转入”要求 |  
 |---|---|
-|美国 IP 登录|美国 IP 登录|
-| GV 号码注册超 3 个月 | 谷歌账号[地区是美国](https://policies.google.com/terms) |  
-| 近期没有删除 GV 号码| 登录 [Google Voice](https://voice.google.com) 同意条款 | 
-| 账号里没有待处理的转移请求| 账号近期没有被停用或检测出异常行为 | 
+|美国 IP|美国 IP|
+| GV 号注册超 3 个月 | 谷歌账号地区是[美国](https://policies.google.com/terms) |  
+| 近期没有删除 GV 号| 同意 [Google Voice](https://voice.google.com) 条款 | 
+| 账号里没有待处理的转移请求| 账号近期没有被停用或异常行为 | 
 | 4 个月内没成功转移过| 最近一年接受次数不超过 3 次| 
 
-**步骤**：
-1. 登录转出 [Google Voice](https://voice.google.com) 帐号，点按右上角【齿轮按钮】，点击【转移号码】，填写转入谷歌邮箱，点击【发送转移请求】。
+1. 登录转出 [Google Voice](https://voice.google.com) 帐号，点按右上角【齿轮按钮】-【转移号码】，填写转入谷歌邮箱，点击【发送转移请求】。
 ![](https://i.imgur.com/b4sTmtB.png)
 
-2. 浏览器新建标签页打开 [Google Voice](https://voice.google.com) 并登录转入谷歌账号，按提示操作到选号页面，点击网页左下方【查看】，点击【接受】，完成转移。
+2. 浏览器新建标签页打开 [Google Voice](https://voice.google.com) 登录转入谷歌账号，到选号页面，点击网页左下方【查看】，再点击【接受】完成转移。
 
 友情提示：请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
