@@ -50,10 +50,10 @@
  - 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
 
 ## 更改密码，辅助邮箱
-- 更改语言：<https://myaccount.google.com/language?gar=1>
-- 更改密码：<https://myaccount.google.com/signinoptions/password>
-- 更改辅助邮箱：<https://myaccount.google.com/recovery/email>（清空输入框，输入自己的邮箱验证）
-- 绑定手机号：<https://myaccount.google.com/signinoptions/rescuephone>
+- 更改语言：[点击这里](https://myaccount.google.com/language?gar=1)
+- 更改密码：[点击这里](https://myaccount.google.com/signinoptions/password)
+- 更改辅助邮箱：[点击这里](https://myaccount.google.com/recovery/email)（清空输入框，填入自己的邮箱验证）
+- 绑定手机号：[点击这里](https://myaccount.google.com/signinoptions/rescuephone)
 
 ## 解锁是什么意思
 号码下“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
