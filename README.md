@@ -38,7 +38,7 @@
 安卓：美区 Google Play 安装 [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 或下载 [apk ](https://apkpure.com/search?q=Google+Voice)安装
 
 1. 打开 Voice App 登录账号（方法同上面网页端）
-2. 若提示“选择目前的电话号码”，点击右下角 **skip**
+2. 若提示“选择目前的电话号码”，点击右下角 **skip（跳过）**
 
 【注】登录后打开设置 > 拨打和接听电话 > 勾选【首选 Wi-Fi 和移动数据网络】
 
