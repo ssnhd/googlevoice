@@ -30,8 +30,6 @@
 
 【注】若 IP 异常谷歌会显示验证手机号，选择中国或其他国家，输入对应国家号码验证。
 
-登录后网页“左侧”有消息按钮即短信，“右侧”即拨打电话。
-
 ## App 登录
 
 苹果：美区 App Store 安装 [Google Voice](https://apps.apple.com/us/app/google-voice/id318698524)（若没美区 Apple ID [点击购买](https://t.me/GVStore)）\
