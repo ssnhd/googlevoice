@@ -42,20 +42,14 @@
  - 购买多个 GV，互相联系
  - 将 GV 转为永久号（无需保号），详情联系[客服](https://t.me/GVStore)
 
-## 更改密码，辅助邮箱
-- 更改语言：[点击这里](https://myaccount.google.com/language?gar=1)
-- 更改密码：[点击这里](https://myaccount.google.com/signinoptions/password)
-- 更改辅助邮箱：[点击这里](https://myaccount.google.com/recovery/email)（清空输入框，填入自己的邮箱验证）
-- 绑定手机号：[点击这里](https://myaccount.google.com/signinoptions/rescuephone)
-
-## 解锁是什么意思
-号码下“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
-
-## 关联号码是什么？
-关联号码是注册 GV 时的验证号码，可删除。
-
-## 充值
-打开[官网](https://voice.google.com/u/0/billing)点击【话费充值】-【选择金额】-【填写信用卡（如 VISA）】-【购买】。
+## 其他问题
+- 更改语言：https://myaccount.google.com/language?gar=1
+- 更改密码：https://myaccount.google.com/signinoptions/password
+- 更改辅助邮箱（清空输入框，填入你邮箱验证）：https://myaccount.google.com/recovery/email
+- 绑定手机号：https://myaccount.google.com/signinoptions/rescuephone
+- 解锁：号码下面“解锁”是携号转网的意思（类似移动转联通），若无此需求请忽略。
+- 关联号码：注册 GV 时的验证号码，可删除。
+- 充值：https://voice.google.com/u/0/billing
 
 ## 转移
 转移指的是将 GV 号码转入到其他谷歌账号里。
