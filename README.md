@@ -93,7 +93,7 @@ Google Voice **支持号码转移**，即将 GV 号码从一个 Google 账号转
 
 ## GV 被停用后如何申诉？
 
-如果 IP 频繁变动，或者多人共用同一 IP，Google 可能会**停用你的 GV 号码**。
+如果 IP 频繁变动，或者多人共用同一 IP，再或者频繁发短信，Google 可能会**停用你的 GV 号码**。
 
 **申诉方法**
 1.	**打开网页端 Google Voice**，点击 **联系我们** 或直接访问 [账户申诉页面](https://support.google.com/accounts/contact/suspended)。
