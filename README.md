@@ -3,7 +3,7 @@
 ## 注意事项
 1. **使用美国 IP**，建议前期固定 IP，频繁切换可能导致封号。
 2. **不要发送短信**，否则可能被 Google 认定为滥用，导致封号。
-3. 购买 Goofgle Voice 号码：[GV 外国手机卡](https://t.me/GVStore)。
+3. 购买 Google Voice 号码：[GV 外国手机卡](https://t.me/GVStore)。
 
 ---
 
