@@ -46,7 +46,7 @@
 | 接收短信 | 免费 |
 |发送短信  | 免费（仅限美国、加拿大号码，不支持其他国家） |
 | 接听电话 | 免费 |
-| 拨打电话 | 免费拨打美国、加拿大号码，[其他国家收费标准](](https://voice.google.com/u/0/rates?pli=1)) |
+| 拨打电话 | 免费拨打美国、加拿大号码，[其他国家收费标准](https://voice.google.com/u/0/rates?pli=1) |
 | 账户充值 | [充值入口](https://voice.google.com/u/0/billing) |
 
 ---
