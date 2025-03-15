@@ -30,7 +30,7 @@
 ---
 
 ## 登录后推荐设置
-- 更改语言：[Google 语言设置](https://myaccount.google.com/language?gar=1)
+- 更改语言：[Google 语言设置，例如改为中文](https://myaccount.google.com/language?gar=1)
 - 更改密码：[Google 账户密码修改](https://myaccount.google.com/signinoptions/password)
 - 更改辅助邮箱（清空输入框，填入你的邮箱验证）：[辅助邮箱设置](https://myaccount.google.com/recovery/email)
 - 绑定手机号：[手机号绑定](https://myaccount.google.com/signinoptions/rescuephone)
