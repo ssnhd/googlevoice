@@ -14,7 +14,7 @@
 1.	访问 [Google Voice](https://voice.google.com/) 官网，点击右上角 **Sign in**，输入账号和密码。
 2.	如果提示验证，选择【确认您的辅助邮箱】（如下图）。
 
-【注】如果 IP 异常，Google 可能要求手机验证，可选择**中国或其他国家**，输入对应号码进行验证。
+【注】如果 IP 不稳定，Google 可能要求手机验证，可选择**中国或其他国家**，输入对应号码进行验证。
 ![](https://i.imgur.com/ZSuOzOH.png)
 
 ## 手机 App 登录
