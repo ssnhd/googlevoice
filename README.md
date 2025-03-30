@@ -9,13 +9,12 @@
 
 ## 电脑网页版登录
 
-发货格式：Google 账号 —— 密码 —— 辅助邮箱 —— GV 号码
-
-1.	访问 [Google Voice](https://voice.google.com/) 官网，点击右上角 **Sign in**，输入账号和密码。
-2.	如果提示验证，选择【确认您的辅助邮箱】（如下图）。
+发货格式：谷歌账号 —— 密码 —— 辅助邮箱 —— GV 号码
+![](https://i.imgur.com/ZSuOzOH.png)
+1. 访问 [Google Voice](https://voice.google.com/) 官网，点击右上角 **Sign in**，输入账号和密码。
+2. 如果提示验证，选择【确认您的辅助邮箱】（上图）。
 
 ⚠️注：如果 IP 不稳定，谷歌可能会要求手机号验证。请选择**中国或其他国家**，然后输入该国家的手机号进行验证。
-![](https://i.imgur.com/ZSuOzOH.png)
 
 ## 手机 App 登录
 1.	打开 **Google Voice App**，使用 Google 账号登录（方法同网页版）。
