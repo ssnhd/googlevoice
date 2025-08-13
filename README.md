@@ -2,36 +2,38 @@
 
 ## ❗注意事项
 
-1. **使用美国 IP**，若频繁切换 IP 可能导致被封
-2. **不要发短信**（收短信和接打电话可以），发短信 Google 可能会认定为滥用导致被封
-3. 登录账号不要过多操作，前期先稳定账号为主
-4. 购买 Google Voice 实体 SIM 卡：[点击这里](https://t.me/GVStore)
+1. 前一周使用美国 IP，不要频繁切换 IP
+2. **前 2 个月不要发短信**，发短信 Google 可能会认定为滥用导致被封，可以收短信和接打电话
+3. 登录账号不要频繁修改资料
+4. 购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStore)
 
 
 ## 电脑网页登录
 
-发货格式：谷歌账号 —— 密码 —— 辅助邮箱 —— GV 号码
+发货格式：谷歌账号 —— 密码 —— 辅助邮箱 —— GV 号
+
+1. 访问 [Google Voice](https://voice.google.com/) 官网，点击右上角 **Sign in**，输入账号和密码。
+2. 如果提示验证，选择【确认您的辅助邮箱】（下图），输入辅助邮箱进行登录。
 ![](https://i.imgur.com/ZSuOzOH.png)
-1、访问 [Google Voice](https://voice.google.com/) 官网，点击右上角 **Sign in**，输入账号和密码。\
-2、如果提示验证，选择【确认您的辅助邮箱】（上图），输入辅助邮箱进行登录。
 
-谷歌为防止滥用可能会出现验证（下图），使用自己的手机号进行验证。\
-注：不要用接码平台号验证，万一以后再次验证接码平台无法复接，那么账号就无解了。
-
+❗注意事项：谷歌为防止滥用可能会出现验证（下图），务必用自己的手机号验证，不要用接码平台，否则后续再验证接码平台的号码不支持二次验证。
 ![](https://imgur.com/kHxN9nU.png)
 
 ## 手机登录
-1.	打开 **Google Voice App**，使用 Google 账号登录（方法同网页版）。
-2.	若提示 **“选择目前的电话号码”**，点击 **Skip（跳过）**。
-3.	**登录后**：进入**设置** > **拨打和接听电话**，勾选 **首选 Wi-Fi 和移动数据网络**，避免因网络问题导致无法拨打电话。
+
+1.	打开 Google Voice App 并登录（方法同网页版）；
+2.	若提示“选择目前的电话号码”，点击 **Skip（跳过）**；
+3.	进入**设置** > **拨打和接听电话**，勾选**首选 Wi-Fi 和移动数据网络**。
 
 **如何下载 Google Voice App？**
+
 - iPhone 用户：美区 [App Store](https://apps.apple.com/us/app/google-voice/id318698524) 下载。
     - 没有美区 Apple ID？[点击这里购买](https://t.me/GVStore)。
 - 安卓用户：[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 美区下载 或 [APK](https://apkpure.com/search?q=Google+Voice)  直链下载。
 
 
 ## 更改密码
+
 - 账号更改语言（例如添加中文放置在顶部）：[点击这里](https://myaccount.google.com/language?gar=1)
 - 账号更改密码：[点击这里](https://myaccount.google.com/signinoptions/password)
 - 更改辅助邮箱（清空输入框，填入你的其他邮箱验证）：[点击这里](https://myaccount.google.com/recovery/email)
