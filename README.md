@@ -3,14 +3,13 @@
 ## ❗注意事项
 
 1. 前一周使用美国 IP，不要频繁切换 IP
-2. **前 2 个月不要发短信**，发短信 Google 可能会认定为滥用导致被封，可以收短信和接打电话
+2. **前 2 个月不要发短信**，否则谷歌可能会认定为滥用导致封号。可以收短信和接打电话
 3. 登录账号不要频繁修改资料
 4. 购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStore)
 
+---
 
-## 电脑网页登录
-
-发货格式：谷歌账号 —— 密码 —— 辅助邮箱 —— GV 号
+## 电脑网页登录（推荐）
 
 1. 访问 [Google Voice](https://voice.google.com/) 官网，点击右上角 **Sign in**，输入账号和密码。
 2. 如果提示验证，选择【确认您的辅助邮箱】（下图），输入辅助邮箱进行登录。
@@ -19,7 +18,11 @@
 ❗注意事项：谷歌为防止滥用可能会出现验证（下图），务必用自己的手机号验证，不要用接码平台，否则后续再验证接码平台的号码不支持二次验证。
 ![](https://imgur.com/kHxN9nU.png)
 
+---
+
 ## 手机登录
+
+推荐使用网页版，对网络要求较低，App 对网络要求较高（例如无法接打电话）。
 
 1.	打开 Google Voice App 并登录（方法同网页版）；
 2.	若提示“选择目前的电话号码”，点击 **Skip（跳过）**；
@@ -31,6 +34,7 @@
     - 没有美区 Apple ID？[点击这里购买](https://t.me/GVStore)。
 - 安卓用户：[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 美区下载 或 [APK](https://apkpure.com/search?q=Google+Voice)  直链下载。
 
+---
 
 ## 更改密码
 
@@ -38,14 +42,22 @@
 - 账号更改密码：[点击这里](https://myaccount.google.com/signinoptions/password)
 - 更改辅助邮箱（清空输入框，填入你的其他邮箱验证）：[点击这里](https://myaccount.google.com/recovery/email)
 - 绑定手机号：[点击这里](https://myaccount.google.com/signinoptions/rescuephone)
+  
+---
 
 ## 关联号码
 
 注册时使用的验证号码，可删除。
 
+---
+
+
 ## 解锁
 
 即“携号转网”（类似于中国的运营商转网），如无需求可忽略。
+
+---
+
 
 ## 资费
 
@@ -58,6 +70,8 @@
 | 打电话 | 免费拨打美国、加拿大号码，[其他国家收费标准](https://voice.google.com/u/0/rates?pli=1) |
 | 账户充值 | [充值入口](https://voice.google.com/u/0/billing) |
 
+---
+
 ## 保号
 
 Google 规定每 3 个月内要主动使用一次，可以通过以下方式进行保号：
@@ -69,9 +83,12 @@ Google 规定每 3 个月内要主动使用一次，可以通过以下方式进�
 - **方法二**：购买两个 GV 号码，相互拨打保持活跃状态。
 - **方法三**：将 GV 号码转为永久号（无需保号），详情咨询[客服](https://t.me/GVStore)。
 
-## 号码转移
+---
 
-GV **支持号码转移（更换 Google 账号）**，即将号码从一个 Google 账号转移到另一个 Google 账号。
+
+## 转移
+
+GV 支持号码转移（更换 Google 账号），即将号码从一个 Google 账号转移到另一个 Google 账号。
 
 ### 转移条件
 
@@ -94,6 +111,9 @@ GV **支持号码转移（更换 Google 账号）**，即将号码从一个 Goog
 	1.	打开 Google Voice（[官网](https://voice.google.com)），用 **转入的 Google 账号** 登录。
 	2.	进入选号页面，点击 **查看** > **接受**，完成号码转移。
 
+---
+
+
 ## 被封
 
 被封的两个主要原因：
@@ -102,6 +122,9 @@ GV **支持号码转移（更换 Google 账号）**，即将号码从一个 Goog
 2. 发短信：有可能被 Google 识别为滥用导致封号。
 
 ✅ 建议：使用实体 SIM 卡，网络环境更稳定，不易因 IP 共享或虚拟化被识别为异常。比如英国卡，无月租，收短信免费，是较理想选项。
+
+---
+
 
 ## 申诉
 
