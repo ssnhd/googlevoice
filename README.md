@@ -31,9 +31,8 @@
 
 **如何下载 Google Voice App？**
 
-- iPhone 用户：美区 [App Store](https://apps.apple.com/us/app/google-voice/id318698524) 下载。
-    - 没有美区 Apple ID？[点击这里购买](https://t.me/GVStore)。
-- 安卓用户：[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 美区下载 或 [APK](https://apkpure.com/search?q=Google+Voice)  直链下载。
+- 苹果：美区 [App Store](https://apps.apple.com/us/app/google-voice/id318698524) 下载。（没有美区 Apple ID？[点击这里](https://t.me/GVStore)购买）
+- 安卓：[Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 美区下载 或 [APK](https://apkpure.com/search?q=Google+Voice)  直链下载。
 
 ---
 
