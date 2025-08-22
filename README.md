@@ -13,12 +13,12 @@
 ## 电脑网页登录（推荐）
 
 1. 打开 https://voice.google.com，点击右上角 **Sign in**，输入账号和密码
-2. 如果提示验证，选择【确认您的辅助邮箱】（下图），输入辅助邮箱进行登录
+2. 如果提示验证，选择第三项【确认您的辅助邮箱】（下图），输入辅助邮箱
 ![](https://i.imgur.com/ZSuOzOH.png)
 
 谷歌为防止滥用可能需手机号验证（下图），选择中国输入自己号码验证即可。如果提示“此电话号码用于验证的次数过多”，换个近期没验证过的号码重试。
 
-❗注：不要频繁验证，否则谷歌会风控 24 小时。不要用接码平台的号码，否则后续再验证，号码不支持二次接码账号就废了。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)不要频繁验证，否则谷歌会风控 24 小时。不要用接码平台的号码，否则后续再验证，号码不支持二次接码账号就废了。
 ![](https://imgur.com/kHxN9nU.png)
 
 ---
@@ -40,27 +40,12 @@
 
 ## 更改密码
 
-- 账号更改语言（例如添加中文放置在顶部）：[点击这里](https://myaccount.google.com/language?gar=1)
-- 账号更改密码：[点击这里](https://myaccount.google.com/signinoptions/password)
-- 更改辅助邮箱（清空输入框，填入你的其他邮箱验证）：[点击这里](https://myaccount.google.com/recovery/email)
-- 绑定手机号：[点击这里](https://myaccount.google.com/signinoptions/rescuephone)
+- 更改语言（例如将中文放置在顶部）：https://myaccount.google.com/language?gar=1
+- 更改辅助邮箱（清空输入框，输入你的邮箱）：https://myaccount.google.com/recovery/email
+- 绑定手机号：https://myaccount.google.com/signinoptions/rescuephone
+- 更改密码：https://myaccount.google.com/signinoptions/password
   
 ---
-
-## 关联号码
-
-注册时使用的验证号码，可删除。
-
----
-
-
-## 解锁
-
-即“携号转网”（类似于中国的运营商转网），如无需求可忽略。
-
----
-
-
 ## 资费
 
 |  | 费用 |
@@ -69,10 +54,12 @@
 | 收短信 | 免费 |
 |发短信  | 免费（仅限美国、加拿大号码，不支持其他国家） |
 | 接电话 | 免费 |
-| 打电话 | 免费拨打美国、加拿大号码，[其他国家收费](https://voice.google.com/u/0/rates?pli=1) |
+| 打电话 | 免费拨打美国、加拿大号码 |
 
- 充值：https://voice.google.com/u/0/billing
+拨打其他国家资费：https://voice.google.com/u/0/rates?pli=1
 
+充值：https://voice.google.com/u/0/billing
+ 
 ---
 
 ## 保号
@@ -85,6 +72,19 @@ Google 规定每 3 个月内要主动使用一次，可以通过以下方式进�
     - 亚马逊客服（+1 888-280-4331）
 - **方法二**：购买两个 GV 号码，相互拨打保持活跃状态。
 - **方法三**：将 GV 号码转为永久号（无需保号），详情咨询[客服](https://t.me/GVStore)。
+
+---
+
+## 关联号码
+
+注册时使用的验证号码，可删除。
+
+---
+
+
+## 解锁
+
+即“携号转网”（类似于中国的运营商转网），如无需求可忽略。
 
 ---
 
@@ -141,4 +141,4 @@ GV 支持号码转移（更换 Google 账号），即将号码从一个 Google �
 5.	**如果多次申诉仍然失败**，则该 GV 号码已无法恢复，建议重新购买新的 GV 号码。
 ![](https://i.imgur.com/d8vfmvd.png)
 
-❗注意事项：停用一般可以申诉成功，若被封禁成功率很低。
+![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)停用一般可以申诉成功，若被封禁成功率很低。
