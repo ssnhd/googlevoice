@@ -8,20 +8,19 @@
 
 购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStore)
 
----
 
 ## 电脑网页登录（推荐）
 
-1. 打开 https://voice.google.com，点击右上角 **Sign in**，输入账号和密码
+1. 打开 [voice.google.com](https://voice.google.com)，点击右上角 **Sign in**，输入账号和密码
 2. 如果提示验证，选择第三项【确认您的辅助邮箱】（下图），输入辅助邮箱
 ![](https://i.imgur.com/ZSuOzOH.png)
 
 谷歌为防止滥用可能需手机号验证（下图），选择中国输入自己号码验证。如果提示“此电话号码用于验证的次数过多”，换个号码重试。
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)如频繁操作验证谷歌会风控 24 小时。
+注：如频繁操作验证谷歌会风控 24 小时。
 ![](https://imgur.com/kHxN9nU.png)
 
----
+
 
 ## 手机登录
 
@@ -34,16 +33,15 @@
 - 苹果：美区 [App Store](https://apps.apple.com/us/app/google-voice/id318698524) 安装（没有美区 Apple ID？[点击这里](https://t.me/GVStore)购买）
 - 安卓：美区 [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 安装或下载 [APK](https://apkpure.com/search?q=Google+Voice) 安装。
 
----
+
 
 ## 更改密码
 
-- 更改语言（例如将中文放置在顶部）：https://myaccount.google.com/language?gar=1
-- 更改辅助邮箱（清空输入框，输入你的邮箱）：https://myaccount.google.com/recovery/email
-- 绑定手机号：https://myaccount.google.com/signinoptions/rescuephone
-- 更改密码：https://myaccount.google.com/signinoptions/password
-  
----
+- 更改语言（例如将中文放置在顶部）：[点击这里](https://myaccount.google.com/language?gar=1)
+- 更改辅助邮箱（清空输入框，输入你的邮箱）：[点击这里](https://myaccount.google.com/recovery/email)
+- 绑定手机号：[点击这里](https://myaccount.google.com/signinoptions/rescuephone)
+- 更改密码：[点击这里](https://myaccount.google.com/signinoptions/password)
+
 ## 资费
 
 |  | 费用 |
@@ -54,12 +52,11 @@
 | 接电话 | 免费 |
 | 打电话 | 免费拨打美国、加拿大号码 |
 
-拨打其他国家资费：https://voice.google.com/u/0/rates?pli=1
+拨打其他国家资费：[点击这里](https://voice.google.com/u/0/rates?pli=1)
 
 充值：用支持美元的信用卡（卡上有 VISA 或 Master 标识）进行充值，不支持代充。\
-充值入口：https://voice.google.com/u/0/billing
- 
----
+充值入口：[点击这里](https://voice.google.com/u/0/billing)
+
 
 ## 保号
 
@@ -72,21 +69,14 @@
 - **方法二**：买两个 GV，相互拨打；
 - **方法三**：将 GV 转为永久号（无需保号），详情咨询[客服](https://t.me/GVStore)。
 
----
 
 ## 关联号码
 
 注册时使用的验证号码，可删除。
 
----
-
-
 ## 解锁
 
 即“携号转网”（类似于中国的运营商转网），如无需求可忽略。
-
----
-
 
 ## 转移
 
@@ -114,8 +104,6 @@ GV 支持将号码转移到另一个 Google 账号。
 1.	打开 https://voice.google.com 用转入的 Google 账号登录；
 2.	进入选号页面，点击网页下方 **查看详情** > **接受**，完成号码转移。
 
----
-
 
 ## 被封
 
@@ -124,9 +112,7 @@ GV 支持将号码转移到另一个 Google 账号。
 1. IP 不稳定：例如机场会频繁更换 IP 以确保不断网。但 IP 是多人共享使用，容易被 Google 判定为异常或可疑流量，触发风控。
 2. 发短信：有可能被 Google 识别为滥用导致封号。
 
-✅ 建议：使用实体 SIM 卡，网络环境更稳定，不易因 IP 共享或虚拟化被识别为异常。比如英国卡，无月租，收短信免费，是较理想选项。
-
----
+建议：使用实体 SIM 卡，网络环境更稳定，不易因 IP 共享或虚拟化被识别为异常。比如英国卡，无月租，收短信免费，是较理想选项。
 
 ## 申诉
 
@@ -141,4 +127,4 @@ GV 支持将号码转移到另一个 Google 账号。
 5.	**如果多次申诉仍然失败**，则该 GV 号码已无法恢复，建议重新购买新的 GV 号码。
 ![](https://i.imgur.com/d8vfmvd.png)
 
-![](https://img.shields.io/badge/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%20-%20?color=D0112B)停用一般可以申诉成功，若被封禁成功率很低。
+注：停用一般可以申诉成功，若被封禁成功率很低。
