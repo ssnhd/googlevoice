@@ -82,28 +82,23 @@
 
 GV 支持将号码转移到另一个 Google 账号。
 
-**条件**：
-
 | 转出账号要求 | 转入账号要求 |
 |---|---|
 |  美国 IP | 美国 IP |
-|GV 号注册超过 3 个月  | 账号地区是[美国](https://policies.google.com/terms) |
-| 近期未删除 GV 号码 | 同意 GV [服务条款](https://voice.google.com) |
-| 账号没有待处理的转移请求 | 近期账号无异常行为 |
-| 4 个月内未成功转移过号码 | 过去 1 年接收转移不超过 3 次|
+| 号码注册超 3 个月  | 地区是[美国](https://policies.google.com/terms) |
+| 号码近 3 个月未转移过 | 同意 [GV 服务条款](https://voice.google.com) |
 
-**转出**：
+### 转出
 
-1.	打开 https://voice.google.com 用转出的 Google 账号登录；
+1.	转出 Google 账号登录 [voice.google.com](https://voice.google.com)；
 2.	点击右上角齿轮设置 > 转移号码；
 ![](https://i.imgur.com/b4sTmtB.png)
-3.	输入转入方的 Google 账号邮箱，然后点击**发送转移请求**。
+3.	输入转入 Google 邮箱，然后点击**发送转移请求**。
 
-**转入**：
+### 转入
 
-1.	打开 https://voice.google.com 用转入的 Google 账号登录；
-2.	进入选号页面，点击网页下方 **查看详情** > **接受**，完成号码转移。
-
+1.	转入 Google 账号登录 [voice.google.com](https://voice.google.com)；
+2.	点击“跳过此步骤”跳过选号页面，点击右上角“设置”按钮，点击“接受”，完成。
 
 ## 被封
 
