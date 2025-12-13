@@ -2,9 +2,10 @@
 
 ## 注意事项
 
-1. 前一周用美国 IP 且不要频繁换 IP
-2. 不要发短信，否则谷歌可能会认定为滥用导致封号，可以收短信和接打电话
-3. 谷歌账号不要频繁修改资料
+1. 前 7 天用美国 IP 登录，且不要频繁换 IP
+2. 不要发短信，否则谷歌可能会认定为滥用导致封号
+3. 可以收短信和接打电话
+4. 谷歌账号不要频繁修改资料
 
 购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStore)
 
@@ -30,12 +31,14 @@
 
 **如何下载 Google Voice App？**
 
-- 苹果：美区 [App Store](https://apps.apple.com/us/app/google-voice/id318698524) 安装（没有美区 Apple ID？[点击这里](https://t.me/GVStore)购买）
-- 安卓：美区 [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 安装或下载 [APK](https://apkpure.com/search?q=Google+Voice) 安装。
+- 苹果手机：美区 [App Store](https://apps.apple.com/us/app/google-voice/id318698524) 安装（没有美区 Apple ID？[点击这里](https://t.me/GVStore)购买）
+- 安卓手机：美区 [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=zh&gl=US) 安装或下载 [APK](https://apkpure.com/search?q=Google+Voice) 安装。
 
 
 
-## 更改密码
+## 更改密码、绑定手机号
+
+登录稳定 7 天后才支持更改。
 
 - 更改语言（例如将中文放置在顶部）：[点击这里](https://myaccount.google.com/language?gar=1)
 - 更改辅助邮箱（清空输入框，输入你的邮箱）：[点击这里](https://myaccount.google.com/recovery/email)
@@ -52,10 +55,10 @@
 | 接电话 | 免费 |
 | 打电话 | 免费拨打美国/加拿大 |
 
-拨打其他国家资费：[点击这里](https://voice.google.com/u/0/rates?pli=1)
+拨打其他国家资费：https://voice.google.com/u/0/rates?pli=1
 
 充值：用支持美元的信用卡（卡上有 VISA 或 Master 标识）进行充值，不支持代充。\
-充值入口：[点击这里](https://voice.google.com/u/0/billing)
+充值入口：https://voice.google.com/u/0/billing
 
 
 ## 保号
@@ -66,7 +69,7 @@
     - 微软客服（+1 800-642-7676）
     - 苹果客服（+1 800-275-2273）
     - 亚马逊客服（+1 888-280-4331）
-- **方法二**：买两个 GV，相互拨打；
+- **方法二**：买两个 GV，相互拨打电话；
 - **方法三**：将 GV 转为永久号（无需保号），详情咨询[客服](https://t.me/GVStore)。
 
 
