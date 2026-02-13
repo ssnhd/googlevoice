@@ -7,7 +7,7 @@
 3. 可以收短信和接打电话
 4. 谷歌账号不要频繁修改资料
 
-购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStore)
+购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStoresim)
 
 
 ## 电脑网页登录（推荐）
