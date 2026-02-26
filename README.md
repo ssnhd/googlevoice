@@ -7,10 +7,10 @@
 3. 可以收短信和接打电话
 4. 谷歌账号不要频繁修改资料
 
-购买 GV 和实体 SIM 卡：[点击这里](https://t.me/GVStoresim)
+**购买 GV 和外国实体 SIM 卡**：https://github.com/ssnhd/sim
 
 
-## 电脑网页登录（推荐）
+## 电脑网页登录
 
 1. 打开 [voice.google.com](https://voice.google.com)，点击右上角 **Sign in**，输入账号和密码
 2. 如果提示验证，选择第三项【确认您的辅助邮箱】（下图），输入辅助邮箱
